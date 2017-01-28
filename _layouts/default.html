@@ -1,0 +1,23 @@
+---
+layout: compress
+---
+  {% include head.html %}
+  <body>
+  <!-- Contenedor Main y sidebar --> 
+    <div id="main" role="main" class="container">
+
+      {% include navbar.html %}
+
+      <div class="row">
+	  {{ content }}
+      </div>
+      
+      
+      
+    </div>
+
+    {% include footer.html %}
+    
+    {% include resources.html %}
+  </body>
+</html>
