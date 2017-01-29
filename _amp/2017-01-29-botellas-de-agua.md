@@ -17,7 +17,7 @@ sitemap:
 Tengo una especie de pregunta rara. Trabajo al aire libre durante el verano, y encuentro que mis botellas de agua se ponen muy calientes y el agua tiene un sabor asqueroso. Tengo una bolsa de almuerzo térmica, pero no parece ayudar mucho. En ninguna parte hay realmente comprar botellas de agua fría en mis sitios de trabajo, así que los traigo de casa. Alguien que conozco sugirió que congelara las botellas de agua la noche anterior, de modo que el agua esté fría todo el día. Sé que el agua se expande cuando se congela, así que no estoy seguro de si la congelación de una botella de agua completa haría que estallara en el congelador. También, he oído que los productos químicos inseguros pueden lixiviar en el agua de las botellas de agua plásticas durante la congelación. Realmente no quiero ingerir productos químicos peligrosos. ¿Puede congelar las botellas de agua?
 
 
-![¿Puede congelar botellas de agua?](http://sepuedecongelar.com/img/six-bottles-of-water-300x190.jpg "¿Puede congelar botellas de agua?" )
+![¿Puede congelar botellas de agua?](https://sepuedecongelar.com/img/six-bottles-of-water-300x190.jpg "¿Puede congelar botellas de agua?" )
 
 
 ## Respuesta
