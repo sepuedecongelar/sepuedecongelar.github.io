@@ -30,7 +30,7 @@ google_analytics:
 searchconsole_verification:
 
 #Bing Webmaster tools Verification
-bing_verification:
+bing_verification: C41371E1ABEAE7BCC0EE15AF51B82D47
 
 
 #Comments
@@ -41,12 +41,12 @@ disqus:
 facebook_app:
 facebook_adminid:
 
-socialmedia:
-  facebook: sepuedecongelar
-  twitter: sepuedecongelar
-  googleplus: sepuedecongelar
-  instagram: sepuedecongelar
-  youtube: sepuedecongelar
+#socialmedia:
+#  facebook: sepuedecongelar
+#  twitter: sepuedecongelar
+#  googleplus: sepuedecongelar
+#  instagram: sepuedecongelar
+#  youtube: sepuedecongelar
 
 
 # Build settings
