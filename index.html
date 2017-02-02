@@ -28,9 +28,9 @@ layout: default
     </li>
     {% for i in (1..paginator.total_pages) %}
       {% if i == 1 %}
-         <li><a {% if i == paginator.page %}class="active"{% else %}class="disabled"{% endfi %} href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ i }}</a></li>
+         <li><a {% if i == paginator.page %}class="active"{% else %}class="disabled"{% endif %} href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ i }}</a></li>
       {% else %}
-         <li><a {% if i == paginator.page %}class="active"{% else %}class="disabled"{% endfi %} href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', i }}">{{ i }}</a></li>
+         <li><a {% if i == paginator.page %}class="active"{% else %}class="disabled"{% endif %} href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', i }}">{{ i }}</a></li>
       {% endif %}
     {% endfor %}
     <li>
