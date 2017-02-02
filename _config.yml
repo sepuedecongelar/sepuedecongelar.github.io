@@ -48,9 +48,16 @@ facebook_adminid:
 #  instagram: sepuedecongelar
 #  youtube: sepuedecongelar
 
+#Paginate settings
+paginate: 5
+paginate_path: '/page:num/'
+
 
 # Build settings
 markdown: kramdown
 
 #
 include: ['_pages', '_amp']
+
+#Plugins
+gems: [jekyll-paginate]
