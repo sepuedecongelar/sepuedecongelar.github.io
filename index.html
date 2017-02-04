@@ -9,7 +9,7 @@ layout: default
       <p>
       {{ post.content | truncatewords: 140, '...' }}
       </p>
-      <a href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
+      <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">Leer mas...</a>
   </div>
 {% endfor %}
 

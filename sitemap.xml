@@ -3,13 +3,15 @@ layout: null
 sitemap:
   exclude: 'yes'
 ---
+{% assign base_url = site.baseurl | prepend: site.url %}
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+
   {% for post in site.posts %}
     {% unless post.published == false %}
     <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
+      <loc>{{ post.url | prepend: site.baseurl | replace: '//', '/' }}</loc>
       {% if post.sitemap.lastmod %}
         <lastmod>{{ post.sitemap.lastmod | date_to_xmlschema }}</lastmod>
       {% elsif post.date %}
@@ -33,7 +35,7 @@ sitemap:
   {% for page in site.pages %}
     {% unless page.sitemap.exclude == "yes" %}
     <url>
-      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+      <loc>{{ page.url | prepend: site.baseurl | replace: '//', '/' | remove: "index.html" }}</loc>
       {% if page.sitemap.lastmod %}
         <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
       {% elsif page.date %}
