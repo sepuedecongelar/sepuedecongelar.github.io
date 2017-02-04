@@ -1,6 +1,6 @@
 {% assign base_url = site.baseurl | prepend: site.url %}
 
-{% assign url = page.permalink | prepend: base_url %}
+{% assign url = page.permalink | prepend: base_url | replace: '//', '/' %}
 
 
 
@@ -11,7 +11,7 @@
     {{ site.image | prepend: base_url }}
   {% endif %}
 {% endcapture %}
-{% assign img = img | strip_newlines | strip %}
+{% assign img = img | strip_newlines | strip | replace: '//', '/' %}
 
 {% assign page_excerpt = page.excerpt | strip_html | escape | strip | strip_newlines | truncate: 160 %}
 
@@ -43,9 +43,9 @@
     <meta name="description" content="{{ page_description }}" />
     <link rel="canonical" href="{{ url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ base_url }}/feed.xml">
-    <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ base_url }}/sitemap.xml" />
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ '/sitemap.xml' | prepend: base_url | replace: '//', '/' }}" />
     {% if page.amplink %}
-    <link rel="amphtml" href="{{ base_url }}{{ page.amplink }}" />
+    <link rel="amphtml" href="{{ page.amplink | prepend: base_url | replace: '//', '/' }}" />
     {% endif %}
     <!-- OpenGraph -->
     <meta property="og:title" content="{{ page.title }}" />
