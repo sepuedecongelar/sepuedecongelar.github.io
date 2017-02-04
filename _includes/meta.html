@@ -1,6 +1,6 @@
 {% assign base_url = site.baseurl | prepend: site.url %}
 
-{% assign url = page.permalink | prepend: base_url | replace: '//', '/' %}
+{% assign url = page.permalink | prepend: base_url %}
 
 
 
@@ -11,7 +11,7 @@
     {{ site.image | prepend: base_url }}
   {% endif %}
 {% endcapture %}
-{% assign img = img | strip_newlines | strip | replace: '//', '/' %}
+{% assign img = img | strip_newlines | strip %}
 
 {% assign page_excerpt = page.excerpt | strip_html | escape | strip | strip_newlines | truncate: 160 %}
 
@@ -42,10 +42,10 @@
     <meta content='width=device-width, initial-scale=1.0' name='viewport'/>
     <meta name="description" content="{{ page_description }}" />
     <link rel="canonical" href="{{ url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: base_url | replace: '//', '/' }}">
-    <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ '/sitemap.xml' | prepend: base_url | replace: '//', '/' }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: base_url }}">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ '/sitemap.xml' | prepend: base_url }}" />
     {% if page.amplink %}
-    <link rel="amphtml" href="{{ page.amplink | prepend: base_url | replace: '//', '/' }}" />
+    <link rel="amphtml" href="{{ page.amplink | prepend: base_url }}" />
     {% endif %}
     <!-- OpenGraph -->
     <meta property="og:title" content="{{ page.title }}" />
