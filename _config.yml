@@ -22,6 +22,8 @@ permalink: /:title
 
 #Adsense code
 adsense:
+   client: ca-pub-7033627990045927
+   slot: 7248228437
 
 #Site Stats
 google_analytics:
