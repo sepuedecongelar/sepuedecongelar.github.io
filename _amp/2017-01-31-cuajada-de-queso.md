@@ -4,7 +4,7 @@ title: ¿Puede congelar cuajada de queso?
 permalink: /amp/cuajada-de-queso/
 normallink:  /cuajada-de-queso/
 home: FALSE
-ogimg: /img/cheese-curds-mixed-300x153.jpg.png
+ogimg: /img/cheese-curds-mixed-300x153.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

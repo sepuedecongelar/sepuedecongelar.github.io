@@ -4,7 +4,7 @@ title: ¿Puede usted congelar el arroz moreno?
 permalink: /amp/arroz-integral/
 normallink:  /arroz-integral/
 home: FALSE
-ogimg: /img/brown-rice-300x235.jpg.png
+ogimg: /img/brown-rice-300x235.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

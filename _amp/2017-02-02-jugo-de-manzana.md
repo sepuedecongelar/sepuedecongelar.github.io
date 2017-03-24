@@ -4,7 +4,7 @@ title: ¿Puede congelar jugo de manzana?
 permalink: /amp/jugo-de-manzana/
 normallink:  /jugo-de-manzana/
 home: FALSE
-ogimg: /img/Arsenic-Found-in-Motts-Apple-Juice-300x223.jpg.png
+ogimg: /img/Arsenic-Found-in-Motts-Apple-Juice-300x223.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

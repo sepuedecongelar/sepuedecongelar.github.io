@@ -4,7 +4,7 @@ title: ¿Se puede congelar frijoles Pinto?
 permalink: /amp/frijoles-pintos/
 normallink:  /frijoles-pintos/
 home: FALSE
-ogimg: /img/pinto-beans-300x199.jpg.png
+ogimg: /img/pinto-beans-300x199.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

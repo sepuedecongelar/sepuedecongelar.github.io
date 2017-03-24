@@ -4,7 +4,7 @@ title: ¿Puede congelar Brownies de malezas?
 permalink: /amp/brownies-de-malezas/
 normallink:  /brownies-de-malezas/
 home: FALSE
-ogimg: /img/weed-brownie-300x201.jpg.png
+ogimg: /img/weed-brownie-300x201.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

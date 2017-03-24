@@ -4,7 +4,7 @@ title: ¿Puede congelar salsa de vodka?
 permalink: /amp/salsa-de-vodka/
 normallink:  /salsa-de-vodka/
 home: FALSE
-ogimg: /img/VODKA-SAUCE-300x225.jpg.png
+ogimg: /img/VODKA-SAUCE-300x225.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

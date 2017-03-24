@@ -4,7 +4,7 @@ title: ¿Se puede congelar queso Gouda?
 permalink: /amp/Queso-gouda/
 normallink:  /Queso-gouda/
 home: FALSE
-ogimg: /img/gouda-cheese-300x200.jpg.png
+ogimg: /img/gouda-cheese-300x200.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

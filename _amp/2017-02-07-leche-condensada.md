@@ -4,7 +4,7 @@ title: ¿Puede congelar leche condensada?
 permalink: /amp/leche-condensada/
 normallink:  /leche-condensada/
 home: FALSE
-ogimg: /img/condensed-milk-300x300.jpg.png
+ogimg: /img/condensed-milk-300x300.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

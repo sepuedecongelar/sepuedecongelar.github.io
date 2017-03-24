@@ -4,7 +4,7 @@ title: ¿Puede congelar la tarta de merengue de limón?
 permalink: /amp/pastel-de-merengue-de-limón/
 normallink:  /pastel-de-merengue-de-limón/
 home: FALSE
-ogimg: /img/lemon-meringue-pie-300x171.jpg.png
+ogimg: /img/lemon-meringue-pie-300x171.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

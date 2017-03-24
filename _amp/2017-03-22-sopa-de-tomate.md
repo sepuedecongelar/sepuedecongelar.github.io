@@ -4,7 +4,7 @@ title: ¿Se puede congelar sopa de tomate?
 permalink: /amp/sopa-de-tomate/
 normallink:  /sopa-de-tomate/
 home: FALSE
-ogimg: /img/tomato-soup-300x225.jpg.png
+ogimg: /img/tomato-soup-300x225.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

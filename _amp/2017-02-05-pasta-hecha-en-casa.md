@@ -4,7 +4,7 @@ title: ¿Puede congelar pasta casera?
 permalink: /amp/pasta-hecha-en-casa/
 normallink:  /pasta-hecha-en-casa/
 home: FALSE
-ogimg: /img/pasta-300x200.jpg.png
+ogimg: /img/pasta-300x200.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

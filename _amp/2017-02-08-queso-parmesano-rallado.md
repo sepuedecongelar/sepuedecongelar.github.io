@@ -4,7 +4,7 @@ title: ¿Se puede congelar queso parmesano rallado?
 permalink: /amp/queso-parmesano-rallado/
 normallink:  /queso-parmesano-rallado/
 home: FALSE
-ogimg: /img/grated-parmesan-cheese-300x300.jpg.png
+ogimg: /img/grated-parmesan-cheese-300x300.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

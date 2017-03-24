@@ -4,7 +4,7 @@ title: ¿Puede congelar jugo de zanahoria?
 permalink: /amp/jugo-de-zanahoria/
 normallink:  /jugo-de-zanahoria/
 home: FALSE
-ogimg: /img/carrot-juice-300x239.jpg.png
+ogimg: /img/carrot-juice-300x239.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

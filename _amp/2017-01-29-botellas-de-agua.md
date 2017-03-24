@@ -4,7 +4,7 @@ title: ¿Puede congelar botellas de agua?
 permalink: /amp/botellas-de-agua/
 normallink:  /botellas-de-agua/
 home: FALSE
-ogimg: /img/six-bottles-of-water-300x190.jpg.png
+ogimg: /img/six-bottles-of-water-300x190.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

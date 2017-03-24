@@ -4,7 +4,7 @@ title: ¿Se puede congelar salsa bechamel?
 permalink: /amp/salsa-bechamel/
 normallink:  /salsa-bechamel/
 home: FALSE
-ogimg: /img/Bechamel-Sauce-300x191.jpg.png
+ogimg: /img/Bechamel-Sauce-300x191.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

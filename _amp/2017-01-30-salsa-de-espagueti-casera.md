@@ -4,7 +4,7 @@ title: ¿Puede congelar salsa de espagueti casera?
 permalink: /amp/salsa-de-espagueti-casera/
 normallink:  /salsa-de-espagueti-casera/
 home: FALSE
-ogimg: /img/Homemade-Spaghetti-Sauce-300x199.jpg.png
+ogimg: /img/Homemade-Spaghetti-Sauce-300x199.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

@@ -4,7 +4,7 @@ title: ¿Puedes Congelar Empanadas?
 permalink: /amp/empanadas/
 normallink:  /empanadas/
 home: FALSE
-ogimg: /img/empanadas_3-300x206.jpg.png
+ogimg: /img/empanadas_3-300x206.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

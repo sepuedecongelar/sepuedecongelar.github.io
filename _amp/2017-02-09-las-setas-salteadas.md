@@ -4,7 +4,7 @@ title: ¿Se pueden congelar hongos salteados?
 permalink: /amp/las-setas-salteadas/
 normallink:  /las-setas-salteadas/
 home: FALSE
-ogimg: /img/sauteed_mushrooms-300x200.jpg.png
+ogimg: /img/sauteed_mushrooms-300x200.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

@@ -4,7 +4,7 @@ title: ¿Puede congelar tomates de uva?
 permalink: /amp/tomates-de-uva/
 normallink:  /tomates-de-uva/
 home: FALSE
-ogimg: /img/grape-tomatoes1-300x200.jpg.png
+ogimg: /img/grape-tomatoes1-300x200.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

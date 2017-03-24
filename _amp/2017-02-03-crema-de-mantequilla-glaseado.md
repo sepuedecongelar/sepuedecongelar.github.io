@@ -4,7 +4,7 @@ title: ¿Puede congelar glaseado de Buttercream?
 permalink: /amp/crema-de-mantequilla-glaseado/
 normallink:  /crema-de-mantequilla-glaseado/
 home: FALSE
-ogimg: /img/WBB-after-6-tbs-milk-all-done-1-300x245.jpg.png
+ogimg: /img/WBB-after-6-tbs-milk-all-done-1-300x245.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

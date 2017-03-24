@@ -4,7 +4,7 @@ title: ¿Puede congelar queso Nacho?
 permalink: /amp/queso-nacho/
 normallink:  /queso-nacho/
 home: FALSE
-ogimg: /img/nacho-cheese-300x218.jpg.png
+ogimg: /img/nacho-cheese-300x218.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

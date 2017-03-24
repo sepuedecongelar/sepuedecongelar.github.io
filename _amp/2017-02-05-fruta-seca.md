@@ -4,7 +4,7 @@ title: ¿Puede congelar frutas secas?
 permalink: /amp/fruta-seca/
 normallink:  /fruta-seca/
 home: FALSE
-ogimg: /img/dried-fruit-300x199.jpg.png
+ogimg: /img/dried-fruit-300x199.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

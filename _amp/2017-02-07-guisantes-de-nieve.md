@@ -4,7 +4,7 @@ title: ¿Puede usted congelar los guisantes de nieve?
 permalink: /amp/guisantes-de-nieve/
 normallink:  /guisantes-de-nieve/
 home: FALSE
-ogimg: /img/snow-peas1-300x210.jpg.png
+ogimg: /img/snow-peas1-300x210.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

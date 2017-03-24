@@ -4,7 +4,7 @@ title: ¿Puede congelar los pimientos rojos asados?
 permalink: /amp/pimientos-rojos-asados/
 normallink:  /pimientos-rojos-asados/
 home: FALSE
-ogimg: /img/roasted-red-peppers-300x199.jpg.png
+ogimg: /img/roasted-red-peppers-300x199.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

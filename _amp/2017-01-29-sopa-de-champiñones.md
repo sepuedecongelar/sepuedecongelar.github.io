@@ -4,7 +4,7 @@ title: ¿Se puede congelar sopa de hongos?
 permalink: /amp/sopa-de-champiñones/
 normallink:  /sopa-de-champiñones/
 home: FALSE
-ogimg: /img/cream-of-mushroom-300x200.jpg.png
+ogimg: /img/cream-of-mushroom-300x200.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'

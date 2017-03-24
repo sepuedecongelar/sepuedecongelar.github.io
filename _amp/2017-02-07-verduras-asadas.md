@@ -4,7 +4,7 @@ title: ¿Puede congelar verduras asadas?
 permalink: /amp/verduras-asadas/
 normallink:  /verduras-asadas/
 home: FALSE
-ogimg: /img/roasted-veggies-300x185.jpg.png
+ogimg: /img/roasted-veggies-300x185.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'
