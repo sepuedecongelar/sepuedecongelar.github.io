@@ -17,7 +17,7 @@ sitemap:
 Me encanta hornear, y con frecuencia uso crema pastelera en mis recetas caseras. No me importa hacer un lote cuando tengo el tiempo, pero a veces sólo quiero hacer algo rápidamente. Me encantaría ser capaz de hacer un lote antes de tiempo, o preservar la sobra de crema pastelera que tengo después de hornear. Es tan delicado, aunque, que no estoy seguro de que se resisten a las duras condiciones de un congelador. Necesito mi crema pastelera para mantener su consistencia original, de lo contrario no funcionará correctamente en recetas. ¿Puede congelar la crema pastelera?
 
 
-![¿Puede congelar la crema pastelera?](https://sepuedecongelar.com/img/ "¿Puede congelar la crema pastelera?" )
+<amp-img alt="¿Puede congelar la crema pastelera?" src="https://sepuedecongelar.com/img/"¿Puede congelar la crema pastelera?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

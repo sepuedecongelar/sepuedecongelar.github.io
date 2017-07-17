@@ -17,7 +17,7 @@ sitemap:
 No estoy seguro si puedes ayudarme, pero aquí va. Me gusta hacer empanadas. Ellos son un tipo de patty de carne de América del Sur que consisten en carne molida o verduras picadas envueltas en una corteza de pastelería y luego horneados o fritos. Son un alimento que crecí comiendo, pero son difíciles de encontrar en el lugar que actualmente vivo. Así que los hago. La cosa es, que son mucho tiempo para hacer, y por lo que no lo hacen muy a menudo. Me gustaría ser capaz de dejar de lado un día cada pocos meses para hacer un gran lote que podría congelar. De esa manera, todo lo que tendría que hacer es descongelar algunas empanadas congeladas en cualquier momento que tenga ganas de comerlas. ¿Puedes congelar empanadas?
 
 
-![¿Puedes Congelar Empanadas?](https://sepuedecongelar.com/img/empanadas_3-300x206.jpg "¿Puedes Congelar Empanadas?" )
+<amp-img alt="¿Puedes Congelar Empanadas?" src="https://sepuedecongelar.com/img/empanadas_3-300x206.jpg"¿Puedes Congelar Empanadas?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

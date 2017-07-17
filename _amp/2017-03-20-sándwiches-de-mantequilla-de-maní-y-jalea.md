@@ -17,7 +17,7 @@ sitemap:
 . Esto va a parecer una pregunta loca, ¡pero necesito saberlo! A mis hijos les encantan los bocadillos de mantequilla de maní y jalea en sus almuerzos, pero me canso de hacer todos esos sándwiches todos los días. Algunas mañanas me he quedado sin pan y luchar para encontrar algo más para que coman que les gustará. He pensado en hacer bastantes emparedados para la semana delante de tiempo y apenas pegarlos en el congelador, pero mi marido piensa que serán gruesos y empapados. No quiero perder mi tiempo o dinero si no va a funcionar. ¿Puede congelar los bocadillos de mantequilla de maní y jalea?
 
 
-![¿Puede congelar la mantequilla de cacahuete y jalea sándwiches?](https://sepuedecongelar.com/img/ "¿Puede congelar la mantequilla de cacahuete y jalea sándwiches?" )
+<amp-img alt="¿Puede congelar la mantequilla de cacahuete y jalea sándwiches?" src="https://sepuedecongelar.com/img/"¿Puede congelar la mantequilla de cacahuete y jalea sándwiches?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

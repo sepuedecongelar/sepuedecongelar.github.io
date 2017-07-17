@@ -17,7 +17,7 @@ sitemap:
 Esto puede parecer una pregunta extraña, pero aquí va! La marihuana ha sido recientemente legalizada en el estado en que vivo. Ahora puedo comprarlo y usarlo legalmente. Aún así, no soy un fan de fumar nada, por lo que típicamente consumen mi hierba cocida en brownies. Aunque comparto con amigos, nunca conseguimos a través de una hornada entera de brownies en una sentada. Además, no necesito mucho hierba para hacer un lote, por lo que el resto sólo se queda sentado hasta la próxima vez lo necesito. Me gustaría hornear unos cuantos lotes a la vez y luego congelarlos, así que puedo comerlos en mi tiempo libre. No estoy seguro si la mala hierba se congela bien. ¿Puede congelar los brownies?
 
 
-![¿Puede congelar Brownies de malezas?](https://sepuedecongelar.com/img/weed-brownie-300x201.jpg "¿Puede congelar Brownies de malezas?" )
+<amp-img alt="¿Puede congelar Brownies de malezas?" src="https://sepuedecongelar.com/img/weed-brownie-300x201.jpg"¿Puede congelar Brownies de malezas?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

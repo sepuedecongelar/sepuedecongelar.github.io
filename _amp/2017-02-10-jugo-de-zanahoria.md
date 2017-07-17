@@ -17,7 +17,7 @@ sitemap:
 He estado en un poco de un golpe de salud últimamente, y han estado comprando una variedad de diferentes jugos para ayudar a agregar más frutas y verduras a mi dieta. A mis hijos les gustan los afrutados y me ayudan a terminarlos, para que nunca se desperdicien. Sin embargo, a nadie más que a mí le gustan los jugos de vegetales, ya menudo lucho por terminarlos antes de que se vayan mal. El jugo natural tiene una vida útil bastante corta, y sigo tirando al menos un cuarto de una botella de cada tipo que compre. Me gustaría quizás congelar algunos de los jugos de vegetales en recipientes más pequeños, para que yo pudiera hacerlos durar más tiempo, y tener una mayor variedad de opciones disponibles para mí. Me preocupa que el jugo de zanahoria no se congele bien y estaré perdiendo el tiempo. ¿Puede congelar jugo de zanahoria?
 
 
-![¿Puede congelar jugo de zanahoria?](https://sepuedecongelar.com/img/carrot-juice-300x239.jpg "¿Puede congelar jugo de zanahoria?" )
+<amp-img alt="¿Puede congelar jugo de zanahoria?" src="https://sepuedecongelar.com/img/carrot-juice-300x239.jpg"¿Puede congelar jugo de zanahoria?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

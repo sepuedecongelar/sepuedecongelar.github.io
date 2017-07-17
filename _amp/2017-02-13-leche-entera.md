@@ -17,7 +17,7 @@ sitemap:
 Mi anciana abuela se mudó recientemente con mi familia ya que ya no puede cuidar de una casa por su cuenta. Tiene problemas para aumentar de peso, y su médico le ha recomendado que cambie a leche entera como una forma de agregar calorías adicionales a su dieta. Ella no come mucho para empezar, y bebe muy poca leche a la vez. El resto de mi familia no bebe leche entera, así que me temo que grandes cantidades de un recipiente van a perder si es sólo mi abuela lo bebe. Ella me dijo que se puede congelar la leche entera sin afectar su calidad, pero me temo que si lo hago y no es seguro que ella podría enfermarse. Yo estaría muy molesto si eso fuera a suceder. ¿Puede congelar la leche entera?
 
 
-![¿Puede congelar la leche entera?](https://sepuedecongelar.com/img/ "¿Puede congelar la leche entera?" )
+<amp-img alt="¿Puede congelar la leche entera?" src="https://sepuedecongelar.com/img/"¿Puede congelar la leche entera?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

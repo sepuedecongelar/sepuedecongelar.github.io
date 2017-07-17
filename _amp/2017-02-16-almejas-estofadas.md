@@ -17,7 +17,7 @@ sitemap:
 Tengo un pequeño problema con el que espero que me puedas ayudar. Voy a organizar un evento familiar grande en breve, y estoy haciendo conchas rellenas como uno de los platos. La cosa es que me han asignado un gran proyecto en el trabajo, y no estoy seguro de que tendré el tiempo para hacer todas esas cáscaras el día antes del evento. Me preguntaba si sería posible para mí hacer las conchas de antemano y luego congelar hasta que los necesito. No sé si sería mejor congelarlos con o sin salsa. ¿Puede congelar conchas rellenas?
 
 
-![¿Puede congelar los depósitos rellenos?](https://sepuedecongelar.com/img/ "¿Puede congelar los depósitos rellenos?" )
+<amp-img alt="¿Puede congelar los depósitos rellenos?" src="https://sepuedecongelar.com/img/"¿Puede congelar los depósitos rellenos?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

@@ -17,7 +17,7 @@ sitemap:
 Recientemente he descubierto champiñones portobello, y ahora no puedo conseguir suficiente de ellos! Estoy tratando de reducir mi consumo de carne, y me parece que las setas portobello son un gran sustituto de la carne en muchas recetas. Incluso hago hamburguesas fuera de ellos! A veces encuentro grandes paquetes de ellos a la venta en mi supermercado local, pero he dudado en comprarlos porque no duran mucho tiempo en la nevera. Tengo curiosidad de saber si sería capaz de congelar con éxito las setas portobello, o si perderían su textura única después de la descongelación. ¿Puede congelar champiñones portobello?
 
 
-![¿Puede congelar las setas de Portobello?](https://sepuedecongelar.com/img/ "¿Puede congelar las setas de Portobello?" )
+<amp-img alt="¿Puede congelar las setas de Portobello?" src="https://sepuedecongelar.com/img/"¿Puede congelar las setas de Portobello?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

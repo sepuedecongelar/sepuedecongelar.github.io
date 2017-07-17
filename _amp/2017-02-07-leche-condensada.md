@@ -17,7 +17,7 @@ sitemap:
 Recientemente me han presentado a la maravilla que es café vietnamita. En caso de que no esté familiarizado con él, es un café dulce refrigerado con una textura cremosa. El sabor dulce y la textura cremosa se deben en gran parte al uso de leche condensada. He tomado para hacer café estilo vietnamita en casa, pero como no lo bebo todos los días, termino desperdiciando mucha leche condensada. Tengo que abrir una nueva lata casi cada vez que hago el café porque la leche va mal antes de que la necesite otra vez. Sólo necesito una cantidad muy pequeña para hacer el café. No quiero seguir tirando tanta comida. ¿Puede congelar la leche condensada?
 
 
-![¿Puede congelar leche condensada?](https://sepuedecongelar.com/img/condensed-milk-300x300.jpg "¿Puede congelar leche condensada?" )
+<amp-img alt="¿Puede congelar leche condensada?" src="https://sepuedecongelar.com/img/condensed-milk-300x300.jpg"¿Puede congelar leche condensada?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

@@ -17,7 +17,7 @@ sitemap:
 Me asó algunas cabezas de ajo para una receta, y me quedan algunas sobras. Me gusta difundir el ajo tostado en tostadas o en recetas, ya que encuentro que tiene un sabor más suave que el ajo crudo o frito. Sin embargo, toma mucho tiempo para hacer, y no siempre lo tengo a mano cuando lo quiero. Ahora que tengo sobras, me pregunto si es posible asar el ajo con antelación y luego congelarlo para usarlo más tarde. No conozco a nadie que haga el ajo tostado en casa, así que nadie fue capaz de darme una respuesta definitiva. ¿Puede congelar el ajo tostado?
 
 
-![¿Puede congelar el ajo tostado?](https://sepuedecongelar.com/img/ "¿Puede congelar el ajo tostado?" )
+<amp-img alt="¿Puede congelar el ajo tostado?" src="https://sepuedecongelar.com/img/"¿Puede congelar el ajo tostado?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

@@ -17,7 +17,7 @@ sitemap:
 Cada vez que hago un lote de glaseado de mantequilla para una torta o para las magdalenas, siempre tengo algo de sobra. No es suficiente para una torta extra o cualquier cosa, pero es suficiente para congelar probablemente otros 6 cupcakes. Me siento mal por perder la comida perfectamente bien cada vez que tiro el exceso de glaseado de mantequilla, pero no estoy seguro de cómo conservarlo para la próxima vez que pueda necesitarlo. Veo pasteles congelados con glaseado en ellos en la tienda de comestibles todo el tiempo, pero la comida procesada contiene tantos conservantes que no estoy seguro si el mismo método funcionaría con mi receta casera de mantequilla crema. ¿Puede congelar crema de mantequilla?
 
 
-![¿Puede congelar glaseado de Buttercream?](https://sepuedecongelar.com/img/WBB-after-6-tbs-milk-all-done-1-300x245.jpg "¿Puede congelar glaseado de Buttercream?" )
+<amp-img alt="¿Puede congelar glaseado de Buttercream?" src="https://sepuedecongelar.com/img/WBB-after-6-tbs-milk-all-done-1-300x245.jpg"¿Puede congelar glaseado de Buttercream?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

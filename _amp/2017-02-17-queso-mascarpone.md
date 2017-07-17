@@ -17,7 +17,7 @@ sitemap:
 Cada ocasión especial, hago un postre italiano tradicional que utiliza queso mascarpone como ingrediente. Compro una pequeña tina de ella, pero siempre terminan con un poco de queso mascarpone que sobran de la receta. No lo uso muy a menudo, pero me gustaría mantener las sobras para usar en postres durante todo el año si pudiera. He pensado en congelarlo, pero mi madre insiste en que arruinaría el queso. Mascarpone es bastante caro, así que no querría gastar dinero congelándolo sólo para ver que arruinó. ¿Puede congelar queso mascarpone?
 
 
-![¿Se puede congelar queso Mascarpone?](https://sepuedecongelar.com/img/ "¿Se puede congelar queso Mascarpone?" )
+<amp-img alt="¿Se puede congelar queso Mascarpone?" src="https://sepuedecongelar.com/img/"¿Se puede congelar queso Mascarpone?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

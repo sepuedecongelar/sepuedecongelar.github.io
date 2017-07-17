@@ -17,7 +17,7 @@ sitemap:
 Realmente me gusta cocinar para mi familia, pero a veces no puedo molestarme en juntar salsas y tal al final de un largo día de trabajo. Ya conserve algunas salsas, como el tomate, y congelo otros, pero todavía siento que podría hacer más para cortar mi tiempo de preparación. Disfruto de carnes y pastas con una salsa bechamel, pero tarda tanto en hacer que normalmente dejo esos platos para el fin de semana cuando tengo más tiempo. Mi esposa me sugirió que contuviera un poco de salsa bechamel de la misma manera que congelé a otros. Tengo que admitir, sin duda haría mi vida más fácil! Estoy un poco reacio a probarlo, porque sé que las salsas hechas de leche y queso no siempre se congelan bien. No quiero pasar por todo ese trabajo por nada. Así que, antes de hacer todo ese esfuerzo, tengo que preguntar: ¿Puedes congelar la salsa béchamel?
 
 
-![¿Se puede congelar salsa bechamel?](https://sepuedecongelar.com/img/Bechamel-Sauce-300x191.jpg "¿Se puede congelar salsa bechamel?" )
+<amp-img alt="¿Se puede congelar salsa bechamel?" src="https://sepuedecongelar.com/img/Bechamel-Sauce-300x191.jpg"¿Se puede congelar salsa bechamel?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

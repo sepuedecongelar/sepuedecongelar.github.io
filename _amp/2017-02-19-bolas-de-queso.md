@@ -17,7 +17,7 @@ sitemap:
 Tengo una especie de pregunta extraña. Me gusta tirar un montón de cócteles en mi casa, y uno de los artículos más populares que sirven son bolas de queso, lo creas o no. Vi un folleto esta semana anunciando mi marca de queso favorita a la venta, y me gustaría comprar un montón y almacenar mientras el precio es bajo. Espero poder congelar las bolas de queso para más tarde, cuando lance una fiesta. No estoy seguro de si todavía saben tan bueno después de congelación. Espero que puedas ayudarme y decirme si vale la pena comprarlos de antemano y congelarlos. ¿Puede congelar bolas de quesos?
 
 
-![¿Puede congelar bolas de queso?](https://sepuedecongelar.com/img/ "¿Puede congelar bolas de queso?" )
+<amp-img alt="¿Puede congelar bolas de queso?" src="https://sepuedecongelar.com/img/"¿Puede congelar bolas de queso?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

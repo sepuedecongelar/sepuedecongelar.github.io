@@ -17,7 +17,7 @@ sitemap:
 Mi marido y yo realmente disfrutar de colas de langosta, pero ya que son generalmente bastante caro que tienden a guardar para ocasiones especiales. Sin embargo, nuestra pescadería local de vez en cuando obtiene algunas colas de langosta fresca en y es capaz de vender por un precio bastante bueno. Mi marido quiere ir en la próxima vez que están a la venta y comprar un lote grande para congelar por lo que siempre puede tener a mano para cuando lo queremos. No sé si es posible congelar colas de langosta sin arruinarlas. Incluso a la venta son demasiado caros para verlos ir a la basura. Por lo tanto, antes de comprar un lote, quiero estar seguro! ¿Puede congelar las colas de langosta?
 
 
-![¿Se puede congelar colas de langosta?](https://sepuedecongelar.com/img/lobster-tail-cooked-lg-300x225.jpg "¿Se puede congelar colas de langosta?" )
+<amp-img alt="¿Se puede congelar colas de langosta?" src="https://sepuedecongelar.com/img/lobster-tail-cooked-lg-300x225.jpg"¿Se puede congelar colas de langosta?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

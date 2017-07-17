@@ -17,7 +17,7 @@ sitemap:
 Estoy asistiendo a un evento de cocina el próximo fin de semana con algunos amigos donde cada uno va a hacer un gran lote de un tipo diferente de pasta casera, y luego compartir unos con otros. Hay siete personas asistiendo, lo que significa que voy a volver a casa con siete lotes de diferentes tipos de pasta casera. Me gustaría congelar la pasta para uso posterior, pero no estoy seguro si puedo. Por lo general sólo uso de tienda de pasta seca, así que esto es nuevo para mí. Sé que la pasta casera sabrá mejor y no quiero perder nada de eso. ¿Puede congelar pasta casera?
 
 
-![¿Puede congelar pasta casera?](https://sepuedecongelar.com/img/pasta-300x200.jpg "¿Puede congelar pasta casera?" )
+<amp-img alt="¿Puede congelar pasta casera?" src="https://sepuedecongelar.com/img/pasta-300x200.jpg"¿Puede congelar pasta casera?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

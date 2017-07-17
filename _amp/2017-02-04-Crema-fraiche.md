@@ -17,7 +17,7 @@ sitemap:
 Me gusta agregar una cucharada o dos de crème fraiche a mis recetas a base de crema al cocinar. Desde que me gusta comer sano la mayor parte del tiempo, sólo uso crema salsas quizás una o dos veces al mes. Como resultado, a menudo terminan tirando la mayoría de un recipiente de crème fraiche porque no he sido capaz de usarlo todo a tiempo. Se siente como un desperdicio para tirar la comida, así que he estado buscando una manera de preservar mi crème fraiche para que dure más tiempo. Me gustaría congelarlo y luego podría usar lo que necesito cuando lo necesite. No estoy seguro de si congelación crème fraiche lo arruinaría. ¿Puede congelar crème fraiche?
 
 
-![¿Puedes congelar Crème Fraiche?](https://sepuedecongelar.com/img/craime-fraiche-300x228.png "¿Puedes congelar Crème Fraiche?" )
+<amp-img alt="¿Puedes congelar Crème Fraiche?" src="https://sepuedecongelar.com/img/craime-fraiche-300x228.png"¿Puedes congelar Crème Fraiche?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

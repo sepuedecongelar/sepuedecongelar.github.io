@@ -17,7 +17,7 @@ sitemap:
 Mis padres tienen esta loca tradición de viernes por la noche donde todos pasar el rato y ver películas con un plato gigante de nachos. Suena un poco extraño, pero en realidad es muy divertido. De todos modos, cada semana es trabajo de otra persona hacer los nachos. Me gusta asegurarse de que hay un montón de salsa de queso extra porque es mi parte favorita de los nachos, pero a veces hacer demasiado. Mi mamá se enoja cuando terminamos tirando comida, pero nunca podré obtener la cantidad que necesitaremos justo. En lugar de tirar el queso extra, quiero saber si puedo congelarlo para la próxima vez lo necesitaré. ¿Puede congelar queso nacho?
 
 
-![¿Puede congelar queso Nacho?](https://sepuedecongelar.com/img/nacho-cheese-300x218.jpg "¿Puede congelar queso Nacho?" )
+<amp-img alt="¿Puede congelar queso Nacho?" src="https://sepuedecongelar.com/img/nacho-cheese-300x218.jpg"¿Puede congelar queso Nacho?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

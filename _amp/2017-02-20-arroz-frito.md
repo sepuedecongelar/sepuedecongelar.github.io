@@ -17,7 +17,7 @@ sitemap:
 Un buen amigo mío hace el mejor arroz frito que he probado. Ella a menudo me invitaba a tener algunos, pero recientemente se movió alrededor de una hora de distancia y no la veo como a menudo más. Ella se ofreció a hacer un gran lote de arroz frito para llevarme a casa la próxima vez que la vea, pero no sé si podré terminarlo todo de una vez. ¿Cómo puedo almacenar el arroz frito para que pueda disfrutarlo durante el próximo mes o así sin que vaya mal? Ella jura que puedo congelar, pero no estoy seguro si eso cambiaría la calidad del arroz frito. ¿Puede congelar arroz frito?
 
 
-![¿Puede congelar arroz frito?](https://sepuedecongelar.com/img/ "¿Puede congelar arroz frito?" )
+<amp-img alt="¿Puede congelar arroz frito?" src="https://sepuedecongelar.com/img/"¿Puede congelar arroz frito?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

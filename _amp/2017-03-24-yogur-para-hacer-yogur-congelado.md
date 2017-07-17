@@ -17,7 +17,7 @@ sitemap:
 Recientemente comencé a comer yogur congelado en lugar de helado en un intento de comer más saludable. Realmente me gusta el sabor y la textura de yogur congelado, pero he encontrado que es mucho más caro comparado con helado regular. Me gustaría ser capaz de hacer mi propio yogur congelado en casa, pero no estoy exactamente seguro de cómo hacerlo. Me gustaría pensar que sólo puedo pegar una tina de yogur en el congelador y dejar que se congele, pero probablemente hay más que tengo que hacer. ¿Puede congelar yogur para hacer yogur congelado?
 
 
-![¿Puede congelar yogur para hacer yogur congelado?](https://sepuedecongelar.com/img/ "¿Puede congelar yogur para hacer yogur congelado?" )
+<amp-img alt="¿Puede congelar yogur para hacer yogur congelado?" src="https://sepuedecongelar.com/img/"¿Puede congelar yogur para hacer yogur congelado?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

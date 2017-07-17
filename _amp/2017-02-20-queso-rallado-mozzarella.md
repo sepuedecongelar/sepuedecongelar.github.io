@@ -17,7 +17,7 @@ sitemap:
 Compré una enorme bolsa de queso rallado mozzarella a la venta en la tienda local de alimentos a granel. El precio era demasiado bueno para dejar pasar, y no me di cuenta de lo grande que era la bolsa hasta que llegué a casa. Yo planeo hacer algunas pizzas con el queso, pero todavía habrá una cantidad considerable de mozzarella desmenuzado. Sé que el queso se puede almacenar en la nevera un poco, pero creo que va a ser un largo tiempo antes de que pueda llegar a través de toda la bolsa. Me gustaría congelarlo, pero no sé si el queso rallado congelado se agrupará y se volverá inutilizable. ¿Se puede congelar queso rallado mozzarella?
 
 
-![¿Se puede congelar queso mozzarella desmenuzado?](https://sepuedecongelar.com/img/ "¿Se puede congelar queso mozzarella desmenuzado?" )
+<amp-img alt="¿Se puede congelar queso mozzarella desmenuzado?" src="https://sepuedecongelar.com/img/"¿Se puede congelar queso mozzarella desmenuzado?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

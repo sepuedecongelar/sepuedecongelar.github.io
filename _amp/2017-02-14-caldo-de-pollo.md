@@ -17,7 +17,7 @@ sitemap:
 Un amigo mío me dijo recientemente que él hace su propio caldo de pollo. Pensé que la idea sonaba genial, y él me dio su receta. He estado teniendo problemas para digerir ciertos aditivos en las existencias comerciales, y creo que hacer mi propia será más saludable para mí y me ahorrará algo de dinero también. Sólo que no me di cuenta de cuánto tiempo se tarda en hacer caldo de pollo, ni cuán grande es una receta por lotes. Sé que no podré comer toda la acción antes de que vaya mal, pero también no quiero tener que hacer la acción cada vez que necesito utilizar algo. Mi amigo congela su y jura que es seguro, pero no estoy seguro. ¿Puede congelar el caldo de pollo?
 
 
-![¿Se puede congelar el caldo de pollo?](https://sepuedecongelar.com/img/ "¿Se puede congelar el caldo de pollo?" )
+<amp-img alt="¿Se puede congelar el caldo de pollo?" src="https://sepuedecongelar.com/img/"¿Se puede congelar el caldo de pollo?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

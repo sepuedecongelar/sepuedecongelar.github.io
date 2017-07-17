@@ -61,5 +61,9 @@ markdown: kramdown
 #
 include: ['_pages', '_amp']
 
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
 #Plugins
 gems: [jekyll-paginate]

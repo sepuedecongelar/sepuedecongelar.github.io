@@ -17,7 +17,7 @@ sitemap:
 He decidido empezar a comer más sano, eliminando ciertos alimentos de mi dieta y sustituyendo otros alimentos por opciones más saludables. Uno de estos cambios es la sustitución de arroz integral para el arroz blanco que solía comer. Desafortunadamente, el resto de mi familia todavía prefiere arroz blanco, y así que encuentro que siempre tengo arroz sobrante cuando lo hago. Normalmente termino tirándolo, lo cual me molesta porque es un desperdicio. Me gustaría ser capaz de mantener el arroz sobrante para las comidas futuras, pero no estoy seguro de cuál sería la mejor manera de almacenar sería. Nunca he intentado congelar el arroz antes, así que no estoy seguro de si sólo terminaría todo blanda. ¿Puede congelar el arroz integral?
 
 
-![¿Puede usted congelar el arroz moreno?](https://sepuedecongelar.com/img/brown-rice-300x235.jpg "¿Puede usted congelar el arroz moreno?" )
+<amp-img alt="¿Puede usted congelar el arroz moreno?" src="https://sepuedecongelar.com/img/brown-rice-300x235.jpg"¿Puede usted congelar el arroz moreno?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

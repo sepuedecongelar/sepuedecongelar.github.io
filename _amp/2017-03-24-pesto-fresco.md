@@ -17,7 +17,7 @@ sitemap:
 Mi suegra hace el pesto más asombroso con albahaca y ajo que ella crece en su jardín. Ella sólo hace que al final del verano, cuando todos los ingredientes son frescos, y toda la familia gorges en pesto por unas semanas hasta que todo se ha ido. Cuando le pregunté por qué no la conservaba o la congelaba para el invierno, ella sacude la cabeza y se niega a considerarla. Me he estado preguntando si podríamos congelar su pesto en pequeños lotes para comer durante el invierno. Toda la familia piensa que estoy loca, pero tengo que saber la respuesta! ¿Puede congelar pesto fresco?
 
 
-![¿Puede congelar pesto fresco?](https://sepuedecongelar.com/img/ "¿Puede congelar pesto fresco?" )
+<amp-img alt="¿Puede congelar pesto fresco?" src="https://sepuedecongelar.com/img/"¿Puede congelar pesto fresco?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

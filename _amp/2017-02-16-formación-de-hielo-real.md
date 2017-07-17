@@ -17,7 +17,7 @@ sitemap:
 He empezado a hacer pasteles y galletas personalizadas para amigos y familiares como una especie de pequeño negocio secundario. He recibido más órdenes en las últimas semanas de lo que esperaba, ya veces me resulta difícil cumplir con todos los plazos necesarios. Lo que me está frenando más es la necesidad de mezclar constantemente la formación de hielo real desde cero. No soy un fan de las cosas pre-compradas, pero es mucho tiempo para hacer un nuevo lote cada semana. Yo estaba pensando que podría ahorrarme algún tiempo para simplemente hacer un gran lote una vez al mes y congelar en lotes para ahorrar tiempo al hornear para mis clientes. Me preocupa que la guinda no se congele bien. No puedo permitirme el lujo de tener productos horneados que no saben muy bien. ¿Puede congelar la formación de hielo real?
 
 
-![¿Puede congelar la formación de hielo real?](https://sepuedecongelar.com/img/ "¿Puede congelar la formación de hielo real?" )
+<amp-img alt="¿Puede congelar la formación de hielo real?" src="https://sepuedecongelar.com/img/"¿Puede congelar la formación de hielo real?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

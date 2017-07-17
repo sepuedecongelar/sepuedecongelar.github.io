@@ -17,7 +17,7 @@ sitemap:
 Me gusta usar el jugo de tomate en una variedad de maneras, de beber por sí mismo, para mezclarlo en cócteles o usarlo en recetas tales como sopas. Sin embargo, encuentro que rara vez uso un recipiente entero de jugo de tomate a la vez, y las sobras tienden a ir a la basura. No quiero tener que comprar un contenedor completamente nuevo cada vez que quiera usar un poco de jugo de tomate, pero no sé cómo preservarlo para durar más tiempo. Sé que se puede congelar la salsa de tomate, pero no estoy seguro de si funcionará también con jugo de tomate. ¿El jugo de tomate congelado cambiará el sabor o la textura? ¿Puede congelar jugo de tomate?
 
 
-![¿Puede congelar jugo de tomate?](https://sepuedecongelar.com/img/ "¿Puede congelar jugo de tomate?" )
+<amp-img alt="¿Puede congelar jugo de tomate?" src="https://sepuedecongelar.com/img/"¿Puede congelar jugo de tomate?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

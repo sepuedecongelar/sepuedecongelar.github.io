@@ -17,7 +17,7 @@ sitemap:
 Me gusta usar queso crema Philadelphia en mis bagels y en salsas de nacho. Yo vivo solo, sin embargo, y no puedo ir a través de un contenedor entero por mi cuenta antes de la fecha de caducidad. Ahora no lo compro muy a menudo porque sé que no podré terminarlo todo y no me gusta perder el dinero tirando buena comida. He oído en algún lugar que se puede congelar Philadelphia queso crema, pero no sé si eso es correcto. ¿No separaría el queso crema? Quiero darle una oportunidad, pero pensé que iba a preguntar primero! ¿Puede congelar el queso crema Philadelphia?
 
 
-![¿Puede congelar el queso crema Philadelphia?](https://sepuedecongelar.com/img/ "¿Puede congelar el queso crema Philadelphia?" )
+<amp-img alt="¿Puede congelar el queso crema Philadelphia?" src="https://sepuedecongelar.com/img/"¿Puede congelar el queso crema Philadelphia?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

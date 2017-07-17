@@ -17,7 +17,7 @@ sitemap:
 Hace poco fui a una tienda de queso de lujo y compró un trozo grande y encantador de queso caro. Lo tenía rallado en la tienda, pero ahora me doy cuenta de que puedo haber comprado demasiado. Me encanta poner queso rallado en mi pasta y en otros platos sabrosos, pero dudo que mi familia y yo consumirá suficiente de ella antes de que empiece a moldear. El queso era caro, y me gustaría poder disfrutar de lo que pagué, sin sentir que tengo que verter queso rallado sobre todo lo que comer durante las próximas semanas. Iba a congelarlo, pero mi compañero piensa que congelar queso rallado hará que pierda sabor. ¿Puede congelar el queso rallado?
 
 
-![¿Se puede congelar queso rallado?](https://sepuedecongelar.com/img/ "¿Se puede congelar queso rallado?" )
+<amp-img alt="¿Se puede congelar queso rallado?" src="https://sepuedecongelar.com/img/"¿Se puede congelar queso rallado?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

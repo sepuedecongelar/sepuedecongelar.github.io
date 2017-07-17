@@ -17,7 +17,7 @@ sitemap:
 Utilicé un queso Gouda para una receta, pero sólo necesitaba alrededor de la mitad de la pieza que compré. La pieza es bastante grande, y probablemente sería lo suficientemente grande para mí para usar en otra receta en algún momento. No somos realmente grandes comedores de queso en esta casa, y probablemente sólo lo usaré cuando vuelva a hacer la receta. No creo que dure mucho tiempo en la nevera, pero no quiero tirar casi un pedazo de queso en la basura. Mi mejor amigo me dijo que debería congelarlo, pero no estoy seguro de que puede congelar queso Gouda sin arruinarlo. Entonces, ¿puedes congelar queso Gouda?
 
 
-![¿Se puede congelar queso Gouda?](https://sepuedecongelar.com/img/gouda-cheese-300x200.jpg "¿Se puede congelar queso Gouda?" )
+<amp-img alt="¿Se puede congelar queso Gouda?" src="https://sepuedecongelar.com/img/gouda-cheese-300x200.jpg"¿Se puede congelar queso Gouda?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

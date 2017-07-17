@@ -20,7 +20,7 @@
   {% if page.description %}
     {{ page.description }}
   {% else %}
-    {{ site.description }}
+    {{ page_excerpt | prepend: page.title }}
   {% endif %}
 {% endcapture %}
 {% assign page_description = page_description | strip_html | escape | strip | strip_newlines | truncate: 160 %}

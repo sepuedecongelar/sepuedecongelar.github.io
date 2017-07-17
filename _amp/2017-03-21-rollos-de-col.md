@@ -17,7 +17,7 @@ sitemap:
 Mi madre decidió hacer un gran lote de rollitos de col este año. Hizo tantos que empezó a regalarles a sus hijos. Como resultado, ahora tengo una gran bolsa de rollos de col que no sé qué hacer. Mis hijos no comer, y mi marido sólo le gusta tener una de vez en cuando. No hay manera de que consiga a través de la bolsa de ellos a tiempo. Mi madre estaría tan molesta si supiera que arrojé la comida que ella cocinó para mí. ¿Hay alguna manera que puedo guardarlos para más tarde sin arruinar el sabor o la textura? ¿Puede congelar rollos de col?
 
 
-![¿Puede congelar rollos de col?](https://sepuedecongelar.com/img/ "¿Puede congelar rollos de col?" )
+<amp-img alt="¿Puede congelar rollos de col?" src="https://sepuedecongelar.com/img/"¿Puede congelar rollos de col?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

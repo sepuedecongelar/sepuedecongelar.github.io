@@ -17,7 +17,7 @@ sitemap:
 Me gusta comer mis verduras con salsa de queso en la parte superior, pero me parece que siempre hago demasiado. No comer salsa de queso cada noche, y las sobras sólo tienden a sentarse en la nevera. A menudo me olvido de él y luego tengo que tirarlo y hacer un nuevo lote la próxima vez que quiero algunos. Preferiría poder congelar la salsa de queso para más adelante, pero he oído que no es una buena idea congelar los productos lácteos porque no guardan la misma consistencia. Por favor, hágamelo saber, ¿Puede congelar la salsa de queso?
 
 
-![¿Puede congelar la salsa de queso?](https://sepuedecongelar.com/img/ "¿Puede congelar la salsa de queso?" )
+<amp-img alt="¿Puede congelar la salsa de queso?" src="https://sepuedecongelar.com/img/"¿Puede congelar la salsa de queso?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

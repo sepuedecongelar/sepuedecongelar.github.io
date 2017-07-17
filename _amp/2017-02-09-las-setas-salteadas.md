@@ -17,7 +17,7 @@ sitemap:
 Me sauté algunos champiñones para unas quiches que estaba horneando para una ducha de bebé, pero resulta que no necesitaba tanto como pensé. Ahora tengo una taza de champiñones salteados que no sé qué hacer. Realmente sólo me gustan los champiñones en quiché, y no hay nadie más en la casa para alimentarlos, por lo que sólo se van a perder en la nevera. Hago quiche cada pocos meses, así que definitivamente sería capaz de utilizar los champiñones salteados la próxima vez que hornear un quiche. Nunca he intentado congelarlos antes, así que no estoy seguro si debo intentarlo o no. Me temo que congelarlos afectaría la textura. ¿Puede congelar champiñones salteados?
 
 
-![¿Se pueden congelar hongos salteados?](https://sepuedecongelar.com/img/sauteed_mushrooms-300x200.jpg "¿Se pueden congelar hongos salteados?" )
+<amp-img alt="¿Se pueden congelar hongos salteados?" src="https://sepuedecongelar.com/img/sauteed_mushrooms-300x200.jpg"¿Se pueden congelar hongos salteados?" height="400" width="800"></amp-img>
 
 
 ## Respuesta

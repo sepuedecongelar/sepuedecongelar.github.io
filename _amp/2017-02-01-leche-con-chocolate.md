@@ -17,7 +17,7 @@ sitemap:
 Mi hija compró un gran recipiente de leche de chocolate que sólo ella va a beber. A nadie más en la casa le gusta, y no quiero que ella beba todo el recipiente por su cuenta en una semana. No quiero tirar el exceso, pero no estoy seguro de qué más hacer con él. Me preguntaba si podría tomar alrededor de la mitad del contenedor y congelar el contenido para más tarde, dejando la mitad para mi hija a beber ahora. Nunca he intentado congelar leche con chocolate antes, así que no estoy seguro si es una buena idea. ¿Puede congelar la leche con chocolate?
 
 
-![¿Puede congelar leche con chocolate?](https://sepuedecongelar.com/img/Chocolate-Milk-2-200x300.jpeg "¿Puede congelar leche con chocolate?" )
+<amp-img alt="¿Puede congelar leche con chocolate?" src="https://sepuedecongelar.com/img/Chocolate-Milk-2-200x300.jpeg"¿Puede congelar leche con chocolate?" height="400" width="800"></amp-img>
 
 
 ## Respuesta
