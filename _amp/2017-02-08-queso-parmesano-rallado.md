@@ -17,7 +17,7 @@ sitemap:
 Me llevó a una tienda de quesos de especialidad a unos 45 minutos fuera de la ciudad, y compró una gran cuña de queso parmesano. Luego rallaron el queso para mí en el lugar, y puso el queso rallado en un recipiente de plástico. No era barato, pero era lo bueno, no el queso procesado, así que no me importa. Sin embargo, uso queso parmesano rallado con moderación. Aunque sé que tiene una larga vida útil en la nevera, me pregunto si puedo extender la vida útil congelándola. ¿Puede congelar el queso parmesano rallado?
 
 
-<amp-img alt="¿Se puede congelar queso parmesano rallado?" src="https://sepuedecongelar.com/img/grated-parmesan-cheese-300x300.jpg"¿Se puede congelar queso parmesano rallado?" height="400" width="800"></amp-img>
+<amp-img alt="¿Se puede congelar queso parmesano rallado?" src="https://sepuedecongelar.com/img/grated-parmesan-cheese-300x300.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta

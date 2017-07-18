@@ -17,7 +17,7 @@ sitemap:
 Hice una olla de sopa de hongos para la cena, pero ahora tengo algunos sobrantes que me gustaría congelar para más tarde. Estoy un poco cauteloso de tratar de congelar, aunque, porque no estoy seguro de cómo la crema en la sopa se llevará a ser congelado. ¿La sopa se separará o se volverá granulada? Me gustaría simplemente congelar lo que queda para la cena otra noche, pero no si el sabor y la textura se va a arruinar una vez que me descongelar. Mi marido cree que debería ser capaz de congelar sopa de hongos sin un problema, pero no estoy tan seguro. ¿Puede congelar sopa de hongos?
 
 
-<amp-img alt="¿Se puede congelar sopa de hongos?" src="https://sepuedecongelar.com/img/cream-of-mushroom-300x200.jpg"¿Se puede congelar sopa de hongos?" height="400" width="800"></amp-img>
+<amp-img alt="¿Se puede congelar sopa de hongos?" src="https://sepuedecongelar.com/img/cream-of-mushroom-300x200.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta

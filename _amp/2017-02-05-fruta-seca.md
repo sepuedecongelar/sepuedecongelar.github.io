@@ -17,7 +17,7 @@ sitemap:
 Esto va a parecer una pregunta realmente extraña, pero nadie que conozco parece ser capaz de responder por mí. O me miran como si estuviera loco por querer probarlo, o simplemente encogiéndose de hombros y decirme que no tienen idea. Quiero saber si es posible congelar frutas secas. Soy un corredor ávido, y me gusta hacer una merienda en la fruta seca como un bocadillo saludable después de mis entrenamientos. El lugar más barato que he encontrado para comprar frutos secos es una tienda de alimentos a granel a unos 30 minutos de mi casa. No quiero tener que conducir allí cada semana, y he encontrado que si compro demasiado, la fruta seca tiene una tendencia a ir rancio antes de que la coma. Me gustaría comprar una vez al mes y comprar un lote grande, luego congelarlo en raciones individuales. ¿Puede congelar frutas secas?
 
 
-<amp-img alt="¿Puede congelar frutas secas?" src="https://sepuedecongelar.com/img/dried-fruit-300x199.jpg"¿Puede congelar frutas secas?" height="400" width="800"></amp-img>
+<amp-img alt="¿Puede congelar frutas secas?" src="https://sepuedecongelar.com/img/dried-fruit-300x199.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta

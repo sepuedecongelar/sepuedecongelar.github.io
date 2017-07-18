@@ -17,7 +17,7 @@ sitemap:
 A mi nieto le gusta el jugo de manzana, así que cada vez que viene a visitar me aseguro de tener algunos a la mano. Es muy joven, por lo que no bebe mucho de él y siempre tengo la mayor parte de los restos del envase. Nadie más en la casa lo bebe, así que cuando se va a casa las sobras sólo se quedan en la nevera hasta que alguien lo arroja. Yo estaba pensando que podría ser una mejor idea para congelar las sobras y sólo descongelar un poco de jugo de manzana cuando mi nieto viene para una visita. ¿Puede congelar jugo de manzana?
 
 
-<amp-img alt="¿Puede congelar jugo de manzana?" src="https://sepuedecongelar.com/img/Arsenic-Found-in-Motts-Apple-Juice-300x223.jpg"¿Puede congelar jugo de manzana?" height="400" width="800"></amp-img>
+<amp-img alt="¿Puede congelar jugo de manzana?" src="https://sepuedecongelar.com/img/Arsenic-Found-in-Motts-Apple-Juice-300x223.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta

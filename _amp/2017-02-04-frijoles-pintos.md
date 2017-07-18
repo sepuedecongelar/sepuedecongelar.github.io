@@ -17,7 +17,7 @@ sitemap:
 Me gusta añadir frijoles pinto a las sopas y pastas, pero odio cuanto tiempo se tarda en cocinar. Todo el proceso de remojarlos durante la noche para ablandarlos y luego hervirlos por lo que parece ser para siempre es un serio impedimento para comerlos muy a menudo. Sé que puedes comprarlos en latas, pero no confío en todas las cosas que añaden a los alimentos enlatados, y la textura nunca parece correcta de todos modos. He estado buscando una manera de cocinar y preservar frijoles pinto por adelantado. Alguien sugirió enlatado pero realmente no sé cómo hacer eso. Supongo que lo que quiero saber es: ¿Puedes congelar frijoles pintos?
 
 
-<amp-img alt="¿Se puede congelar frijoles Pinto?" src="https://sepuedecongelar.com/img/pinto-beans-300x199.jpg"¿Se puede congelar frijoles Pinto?" height="400" width="800"></amp-img>
+<amp-img alt="¿Se puede congelar frijoles Pinto?" src="https://sepuedecongelar.com/img/pinto-beans-300x199.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta

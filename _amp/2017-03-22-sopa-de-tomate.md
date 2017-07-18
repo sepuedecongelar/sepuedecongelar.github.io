@@ -17,7 +17,7 @@ sitemap:
 Acabo de perfeccionar la mejor receta de sopa de tomate, y puede haber sido un poco optimista acerca de cuánto de mi familia puede comer en un momento. Como resultado, ahora tengo un gran lote de sopa de tomate sobrante que me gustaría guardar para más tarde. Nunca he hecho sopa casera de tomate antes, así que no estoy seguro de congelarlo. Sé que los tomates se congelan bien, pero la sopa también tiene algo de leche, y no creo que la leche se congele bien. Me sentiría tan decepcionado si congelé toda esa sopa sólo para arruinarla al final. ¿Puede congelar la sopa de tomate?
 
 
-<amp-img alt="¿Se puede congelar sopa de tomate?" src="https://sepuedecongelar.com/img/tomato-soup-300x225.jpg"¿Se puede congelar sopa de tomate?" height="400" width="800"></amp-img>
+<amp-img alt="¿Se puede congelar sopa de tomate?" src="https://sepuedecongelar.com/img/tomato-soup-300x225.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta
