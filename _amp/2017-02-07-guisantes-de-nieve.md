@@ -17,7 +17,7 @@ sitemap:
 Mi hijo pequeño ama a jardín conmigo, así que le dejó plantar una trama suya. Su vegetal favorito es el guisante de nieve, por lo que plantó tres plantas de guisantes de nieve. No tenía ni idea de que cada planta crecería tantas vainas de guisantes. Ahora tenemos demasiados guisantes de nieve para nuestra pequeña familia posiblemente consumir. Mi hijo estaría devastado si supiera que arrojé los guisantes a los que ha trabajado tan duro para crecer, pero realmente no sé qué más hacer con ellos. Ya hemos regalado algo a amigos y vecinos. Mi marido sugirió congelación, que creo que es una gran idea si va a funcionar. ¿Puede congelar los guisantes de nieve?
 
 
-<amp-img alt="¿Puede usted congelar los guisantes de nieve?" src="https://sepuedecongelar.com/img/snow-peas1-300x210.jpg"¿Puede usted congelar los guisantes de nieve?" height="400" width="800"></amp-img>
+<amp-img alt="¿Puede usted congelar los guisantes de nieve?" src="https://sepuedecongelar.com/img/snow-peas1-300x210.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta

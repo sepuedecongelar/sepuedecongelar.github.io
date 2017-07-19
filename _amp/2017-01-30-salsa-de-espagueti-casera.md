@@ -17,7 +17,7 @@ sitemap:
 Mi papá hace la mejor salsa de espagueti en el mundo, y siempre insisto en que me hace algunos cuando voy a visitar. Le gusta cocinar, y aunque me ha dado la receta, simplemente no sabe lo mismo cuando lo hago. Él tiene el toque mágico! Desafortunadamente, aunque traigo a casa una enorme olla de salsa cada vez que lo veo, siempre me quedo antojo más salsa entre visitas. Se ha ofrecido a hacerme algunos lotes que puedo llevar a casa y poner en el congelador para cuando lo necesite, pero me temo que no sabrá lo mismo después de descongelación. ¿Puede congelar salsa de espagueti casera?
 
 
-<amp-img alt="¿Puede congelar salsa de espagueti casera?" src="https://sepuedecongelar.com/img/Homemade-Spaghetti-Sauce-300x199.jpg"¿Puede congelar salsa de espagueti casera?" height="400" width="800"></amp-img>
+<amp-img alt="¿Puede congelar salsa de espagueti casera?" src="https://sepuedecongelar.com/img/Homemade-Spaghetti-Sauce-300x199.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta

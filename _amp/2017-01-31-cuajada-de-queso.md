@@ -17,7 +17,7 @@ sitemap:
 Hay un gran lugar cerca de la casa de mi abuela que produce queso. Tienen una tienda de fábrica que está abierta al público y vende sus productos por menos de lo que pagaría en una tienda. Una de las cosas que venden es cuajada de queso, los trozos de queso que sobran de la producción regular. Esas cuajadas curiosas y saladas son mi favorita absoluta, y el único lugar donde puedo comprarlas es en la fábrica. La cosa es, mi abuela vive muy lejos y sólo puedo verla unas cuantas veces al año. Echo de menos mi cuajada el resto del tiempo! Me preguntaba si podía comprar un gran lote y congelarlos para mantenerme hasta mi próxima visita. ¿Puede congelar las cuajadas de queso?
 
 
-<amp-img alt="¿Puede congelar cuajada de queso?" src="https://sepuedecongelar.com/img/cheese-curds-mixed-300x153.jpg"¿Puede congelar cuajada de queso?" height="400" width="800"></amp-img>
+<amp-img alt="¿Puede congelar cuajada de queso?" src="https://sepuedecongelar.com/img/cheese-curds-mixed-300x153.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta

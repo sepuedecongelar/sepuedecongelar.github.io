@@ -17,7 +17,7 @@ sitemap:
 He cometido el error de plantar demasiadas plantas de tomate en mi jardín este verano, y ahora tengo un exceso de tomates que no sé qué hacer. ¿Quién sabía que cada pequeña planta producía tantos tomates? No puedo ponerlos todos en ensaladas, y sé que los tomates de uva no son del tipo que haces la salsa de tomate, así que estoy un poco atascado en cuanto a qué hacer con ellos. Alguien me sugirió que los congelara, pero nunca he oído hablar de nadie congelando tomates de uva. ¿No los arruinaría? ¡Trabajé tan duro para crecerlos, no quiero destruirlos a todos! ¿Puede congelar los tomates de uva?
 
 
-<amp-img alt="¿Puede congelar tomates de uva?" src="https://sepuedecongelar.com/img/grape-tomatoes1-300x200.jpg"¿Puede congelar tomates de uva?" height="400" width="800"></amp-img>
+<amp-img alt="¿Puede congelar tomates de uva?" src="https://sepuedecongelar.com/img/grape-tomatoes1-300x200.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta

@@ -17,7 +17,7 @@ sitemap:
 Vivo en una zona rural y estoy rodeado de granjas. Me gusta apoyar a granjeros locales, y compro muchos vehículos frescos, locales de los granjeros en mi área. Aunque voy a comer verduras en casi cualquier forma, mi forma favorita es tostado. Pongo verduras asadas en sándwiches, sopas, pasta, o simplemente comen solos como un plato de acompañamiento. La cosa es, asar verduras lleva mucho tiempo y no siempre puedo molestarse en hacerlo cuando me siento como comer algo. He estado pensando en asar verduras y luego congelarlas para comer más tarde, pero no estoy seguro de si van a probar lo mismo después de ser congelado. ¿Puede congelar las verduras asadas?
 
 
-<amp-img alt="¿Puede congelar verduras asadas?" src="https://sepuedecongelar.com/img/roasted-veggies-300x185.jpg"¿Puede congelar verduras asadas?" height="400" width="800"></amp-img>
+<amp-img alt="¿Puede congelar verduras asadas?" src="https://sepuedecongelar.com/img/roasted-veggies-300x185.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta

@@ -17,7 +17,7 @@ sitemap:
 Mi suegra hace la mejor tarta de limón merengue que he probado. El problema es que ella vive fuera de la ciudad y sólo viene a visitar algunas veces al año. Siempre que está aquí, siempre le pido que me haga un pastel. Luego pasé meses soñando con lo bueno que era hasta la próxima vez que la vea! Me encantaría que pudiera hacerme algunos pasteles la próxima vez que visite, para que pudiera congelarlos y retenerme hasta la próxima visita. No estoy seguro si la congelación hará que la corteza se vuelva blanda o afecte el merengue. ¿Puede congelar pasteles de limón merengue?
 
 
-<amp-img alt="¿Puede congelar la tarta de merengue de limón?" src="https://sepuedecongelar.com/img/lemon-meringue-pie-300x171.jpg"¿Puede congelar la tarta de merengue de limón?" height="400" width="800"></amp-img>
+<amp-img alt="¿Puede congelar la tarta de merengue de limón?" src="https://sepuedecongelar.com/img/lemon-meringue-pie-300x171.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta

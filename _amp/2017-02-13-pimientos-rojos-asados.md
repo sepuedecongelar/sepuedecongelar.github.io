@@ -17,7 +17,7 @@ sitemap:
 Mis vecinos compran bushels de pimientos rojos al final del verano, y luego los asan para el invierno. Les gusta cortar en rodajas finas, luego frascos en un tipo de salmuera para que puedan comer como aperitivo durante el invierno. Me preguntaron si estaría interesado en asar algunos de los míos, y me mostrarían cómo. Prefiero comer mis pimientos rojos asados en un sándwich o tirado con algo de pasta en lugar de rodajas en tiras como aperitivo. No quiero voltear a mi vecino, pero me pregunto si hay otra forma de almacenar los pimientos rojos asados. ¿Puede congelar los pimientos rojos asados?
 
 
-<amp-img alt="¿Puede congelar los pimientos rojos asados?" src="https://sepuedecongelar.com/img/roasted-red-peppers-300x199.jpg"¿Puede congelar los pimientos rojos asados?" height="400" width="800"></amp-img>
+<amp-img alt="¿Puede congelar los pimientos rojos asados?" src="https://sepuedecongelar.com/img/roasted-red-peppers-300x199.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta

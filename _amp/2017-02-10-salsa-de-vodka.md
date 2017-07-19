@@ -17,7 +17,7 @@ sitemap:
 Mi pasta favorita es penne en una salsa de vodka. Trato de hacerlo por lo menos una vez al mes, pero no soy un gran fan de hacer la salsa desde cero cada vez. He probado varios tipos de salsas enlatadas de vodka, pero no puedo encontrar una que me gusta. Ellos no saben lo mismo! He estado jugando con la idea de hacer un lote doble de salsa de vodka la próxima vez para que pueda congelar un lote para más tarde. He oído que el alcohol no se congela correctamente sin embargo, así que no estoy seguro si eso funcionaría. ¿Puede congelar la salsa de vodka?
 
 
-<amp-img alt="¿Puede congelar salsa de vodka?" src="https://sepuedecongelar.com/img/VODKA-SAUCE-300x225.jpg"¿Puede congelar salsa de vodka?" height="400" width="800"></amp-img>
+<amp-img alt="¿Puede congelar salsa de vodka?" src="https://sepuedecongelar.com/img/VODKA-SAUCE-300x225.jpg" height="400" width="800"></amp-img>
 
 
 ## Respuesta
