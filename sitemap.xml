@@ -32,7 +32,7 @@ sitemap:
     {% endunless %}
   {% endfor %}
   {% for page in site.pages %}
-    {% unless page.sitemap.exclude == "yes" %}
+  {% unless page.sitemap.exclude == "yes" or paginator.page > 1 %}
     <url>
       <loc>{{ page.url | prepend: base_url | remove: "index.html" }}</loc>
       {% if page.sitemap.lastmod %}
