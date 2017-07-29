@@ -3,11 +3,10 @@
   <head>
     <title>
            {% if page.title %}{{ page.title }} - {{ site.name }}{% else %} {{ site.name }}{% endif %}
-           {% if paginator %} - Pagina {{ paginator.page }}{% endif %}
+           {% if paginator.page > 1 %} - Pagina {{ paginator.page }}{% endif %}
     </title>
     {% include meta.html %}
     {% include styles.html %}
     {% include fbapp.html %}
-    {% include schema.html %} 
+    {% include schema.html %}
   </head>
-
