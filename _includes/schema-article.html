@@ -16,13 +16,12 @@
 {% capture page_description %}
   {% if page.description %}
     {{ page.description }}
-  {% else if page.excerpt %}
-    {{ page.excerpt}}
   {% else %}
-    {{ site.description }}
+    {{ page_excerpt | prepend: page.title }}
   {% endif %}
 {% endcapture %}
 {% assign page_description = page_description | strip_html | escape | strip | strip_newlines | truncate: 160 %}
+
 
 {% capture page_datePublished %}
   {% if page.date %}
