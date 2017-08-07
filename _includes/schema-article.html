@@ -13,6 +13,17 @@
 {% endcapture %}
 {% assign img = img | strip_newlines | strip %}
 
+
+{% capture page_excerpt %}
+   {% if post.excerpt %}
+      {{ post.excerpt }}
+   {% else %}
+      {{ site.description }}
+   {% endif %}
+{% endcapture %}
+{% assign page_excerpt = page_excerpt | strip_html | escape | strip | strip_newlines | truncate: 160 %}
+
+
 {% capture page_description %}
   {% if page.description %}
     {{ page.description }}
