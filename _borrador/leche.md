@@ -1,0 +1,29 @@
+---
+layout: post
+title: ¿Puede congelar la leche?  
+description: 
+permalink:     /leche/
+amplink:  /amp/leche/
+keywords: 
+ogimg: /img/milk-300x168.jpg.png
+sitemap:
+ priority: 1
+ changefreq:    'monthly'
+---
+
+
+
+## Pregunta
+
+Vivo solo y encuentro que a menudo no puedo terminar un envase de leche antes de la mejor fecha antes. No me gusta tirar la comida, pero no sé cómo hacer que mi leche dure más tiempo. ¿Puede congelar la leche?
+
+
+![¿Puede congelar la leche?](https://sepuedecongelar.com/img/milk-300x168.jpg "¿Puede congelar la leche?" )
+
+
+## Respuesta
+
+Es un hecho poco conocido, pero sí, se puede congelar la leche. La leche puede permanecer fresca durante meses en un estado congelado, y es fácil de congelar y descongelar para uso futuro. Sin embargo, se deben tomar algunas precauciones para asegurar los mejores resultados. La leche congelada se expandirá de forma similar a la forma en que el agua se expande cuando se congela, por lo que es importante congelarla en un recipiente flexible o bolsa de congelador, y dejar espacio para que se produzca la expansión.
+Muchas personas piensan que la leche no se puede congelar con seguridad porque cambia de textura y color cuando se congela. La razón del cambio es en realidad debido a la grasa en la leche que se separa durante el proceso de congelación, y permanece separada al descongelar. Con el fin de obtener la leche descongelada de nuevo a su textura original (o lo más cerca posible de la original) como sea posible, agitar o revolver la leche antes de beber. En términos de color, la leche congelada adquiere un color amarillento, también debido al contenido de grasa. La leche debe volver a su color original al descongelar, especialmente si se agita o se sacude para redistribuir la grasa.
+La leche tiene una tendencia a asumir los sabores de otros alimentos, así que asegúrese de congelar la leche en un recipiente hermético para evitar que esto suceda. La leche puede congelarse con seguridad durante tres o más meses. Etiquetar el contenedor con la fecha congelada para referencia. Debe almacenarse bajo cero. No congelar la leche que ha pasado su fecha de vencimiento, y nunca volver a congelar la leche que ya se ha congelado y descongelado una vez.
+Para descongelar la leche congelada, el mejor método es colocarla en la nevera hasta que esté completamente descongelada, lo que puede tardar de uno a tres días dependiendo de la cantidad de leche. Esto asegura que la leche permanezca a una temperatura segura, aunque lleva más tiempo que otros métodos. No descongelar la leche en el mostrador, ya que las bacterias dañinas pueden crecer en temperaturas más cálidas. La leche descongelada puede perder parte del sabor y la textura originales, pero es segura para beber. Algunas personas prefieren usar leche descongelada en recetas tales como sopas o guisos en lugar de usarlo para beber o verter sobre los cereales.

@@ -1,0 +1,31 @@
+---
+layout: post
+title: ¿Puede congelar puré de patatas?  
+description: 
+permalink:     /puré/
+amplink:  /amp/puré/
+keywords: 
+ogimg: /img/mashed-potato-300x252.jpg.png
+sitemap:
+ priority: 1
+ changefreq:    'monthly'
+---
+
+
+
+## Pregunta
+
+Hice un gran lote de puré de patatas para una ocasión especial, y ahora tengo un montón de sobras. No hay manera de que pueda comer todas estas patatas! ¿Puede congelar puré de patatas?
+
+
+![¿Puede congelar puré de patatas?](https://sepuedecongelar.com/img/mashed-potato-300x252.jpg "¿Puede congelar puré de patatas?" )
+
+
+## Respuesta
+
+.
+ Usted puede congelar el puré de patatas, pero dependiendo de cómo se hicieron, los resultados pueden variar. Las patatas con un mayor contenido de almidón como las patatas rojizas son más propensas que otras variedades a perder su textura y obtener granulado en el congelador, y producirá los resultados más decepcionantes. Las variedades menos almidonadas tienden a congelarse mejor. Además, la leche añadida en puré de papas puede afectar a la textura cuando se descongela, mientras que los hechos con crema agria tienden a mantener más de su textura cremosa original.
+Para congelar puré de patatas, considere congelarlos en lotes más pequeños. Coloque las puré de patatas pequeñas bolsas de congelador y el sello, dejando una pequeña cantidad de espacio para cualquier expansión que pueda ocurrir. Aplanar las bolsas del congelador para que puedan ser apiladas en el congelador. Etiquete los paquetes con el contenido, la cantidad y la fecha congelados. Las patatas trituradas congeladas se utilizan mejor en los tres meses siguientes a la congelación.
+Un método alternativo para congelar puré de patatas es congelar varias porciones individuales en una bolsa de congelador grande. Usando una taza de medir, coloque los tamaños de porción deseados en bolas en una hoja de hornear forrada con papel de pergamino. Coloque la hoja en el congelador hasta que las bolas estén duras. Retire las bolas de patata y envuélvalas individualmente en una envoltura de plástico. Coloque las bolas en una bolsa de congelador grande, sellar y etiquetar.
+Para descongelar las patatas congeladas, retirarlas del congelador y dejarlas en el refrigerador durante varias horas hasta que se descongelen por completo. También pueden descongelarse en un recipiente seguro para microondas en el microondas, usando el ajuste de descongelación. Una vez descongelado completamente, revuelva bien las patatas para recombinar todos los ingredientes y restaurar su textura original. Si el puré de papas sigue siendo demasiado acuoso, añadir unas cuantas cucharadas de crema agria o queso crema ayudará a espesarlos y hacerlos cremosos. También puede ayudar a añadir algo de sabor si se pierde durante el proceso de congelación.
+Descongelado puré de patatas se utilizan mejor dentro de 2-3 días de descongelación, ya que su consistencia comenzará a romperse cuanto más tiempo se sientan en la nevera. Descongelado puré de patatas son excelentes para su uso en recetas tales como sopas, guisos o puré de patatas. No congelar las recetas que usan previamente puré de patatas congeladas como un ingrediente.
