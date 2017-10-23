@@ -66,4 +66,4 @@ sass:
   style: :compressed # You might prefer to minify using :compressed
 
 #Plugins
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-redirect-from]
