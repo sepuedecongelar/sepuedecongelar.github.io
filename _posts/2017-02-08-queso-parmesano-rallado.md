@@ -5,7 +5,7 @@ description:
 permalink:     /queso-parmesano-rallado/
 amplink:  /amp/queso-parmesano-rallado/
 keywords: 
-ogimg: /img/grated-parmesan-cheese-300x300.jpg.png
+ogimg: /img/grated-parmesan-cheese-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

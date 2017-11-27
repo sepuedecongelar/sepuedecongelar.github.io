@@ -5,7 +5,7 @@ description:
 permalink:     /ensalada-de-pollo/
 amplink:  /amp/ensalada-de-pollo/
 keywords: 
-ogimg: /img/new-chicken-salad-300x272.jpg.png
+ogimg: /img/new-chicken-salad-300x272.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

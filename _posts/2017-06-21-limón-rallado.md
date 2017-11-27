@@ -5,7 +5,7 @@ description:
 permalink:     /limón-rallado/
 amplink:  /amp/limón-rallado/
 keywords: 
-ogimg: /img/lemon-zest-300x214.jpg.png
+ogimg: /img/lemon-zest-300x214.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

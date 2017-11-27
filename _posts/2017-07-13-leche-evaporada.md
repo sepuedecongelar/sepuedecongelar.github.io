@@ -5,7 +5,7 @@ description:
 permalink:     /leche-evaporada/
 amplink:  /amp/leche-evaporada/
 keywords: 
-ogimg: /img/evaporated-milk-300x300.jpg.png
+ogimg: /img/evaporated-milk-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /huevos-crudos/
 amplink:  /amp/huevos-crudos/
 keywords: 
-ogimg: /img/raw-eggs-300x219.jpg.png
+ogimg: /img/raw-eggs-300x219.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

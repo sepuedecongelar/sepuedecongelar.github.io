@@ -5,7 +5,7 @@ description:
 permalink:     /tomates-verdes/
 amplink:  /amp/tomates-verdes/
 keywords: 
-ogimg: /img/green-tomatoes-300x199.jpg.png
+ogimg: /img/green-tomatoes-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

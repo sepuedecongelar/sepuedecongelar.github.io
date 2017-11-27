@@ -5,7 +5,7 @@ description:
 permalink:     /tomates-frescos/
 amplink:  /amp/tomates-frescos/
 keywords: 
-ogimg: /img/fresh-tomatoes-300x206.jpg.png
+ogimg: /img/fresh-tomatoes-300x206.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

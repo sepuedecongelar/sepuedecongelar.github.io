@@ -5,7 +5,7 @@ description:
 permalink:     /pastel-de-ángel/
 amplink:  /amp/pastel-de-ángel/
 keywords: 
-ogimg: /img/angel-food-cake-300x300.jpg.png
+ogimg: /img/angel-food-cake-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

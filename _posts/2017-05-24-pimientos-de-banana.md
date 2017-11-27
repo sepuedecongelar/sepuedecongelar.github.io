@@ -5,7 +5,7 @@ description:
 permalink:     /pimientos-de-banana/
 amplink:  /amp/pimientos-de-banana/
 keywords: 
-ogimg: /img/BananaPeppers-300x193.jpg.png
+ogimg: /img/BananaPeppers-300x193.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

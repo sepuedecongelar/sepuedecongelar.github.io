@@ -5,7 +5,7 @@ description:
 permalink:     /cuajada-de-queso/
 amplink:  /amp/cuajada-de-queso/
 keywords: 
-ogimg: /img/cheese-curds-mixed-300x153.jpg.png
+ogimg: /img/cheese-curds-mixed-300x153.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

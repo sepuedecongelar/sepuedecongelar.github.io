@@ -5,7 +5,7 @@ description:
 permalink:     /champiñones-rellenos/
 amplink:  /amp/champiñones-rellenos/
 keywords: 
-ogimg: /img/stuffed-mushrooms-300x225.jpg.png
+ogimg: /img/stuffed-mushrooms-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

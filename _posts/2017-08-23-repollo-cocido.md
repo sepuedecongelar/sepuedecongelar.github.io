@@ -5,7 +5,7 @@ description:
 permalink:     /repollo-cocido/
 amplink:  /amp/repollo-cocido/
 keywords: 
-ogimg: /img/cooked-cabbge-300x225.jpg.png
+ogimg: /img/cooked-cabbge-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

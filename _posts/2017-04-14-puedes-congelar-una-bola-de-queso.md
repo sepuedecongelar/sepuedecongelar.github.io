@@ -5,7 +5,7 @@ description:
 permalink:     /puedes-congelar-una-bola-de-queso/
 amplink:  /amp/puedes-congelar-una-bola-de-queso/
 keywords: 
-ogimg: /img/cheese-balls-300x200.jpg.png
+ogimg: /img/cheese-balls-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

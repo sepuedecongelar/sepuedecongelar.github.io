@@ -5,7 +5,7 @@ description:
 permalink:     /lentejas-cocidas/
 amplink:  /amp/lentejas-cocidas/
 keywords: 
-ogimg: /img/cooked-lentils-300x300.jpg.png
+ogimg: /img/cooked-lentils-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

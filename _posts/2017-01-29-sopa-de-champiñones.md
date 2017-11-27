@@ -5,7 +5,7 @@ description:
 permalink:     /sopa-de-champiñones/
 amplink:  /amp/sopa-de-champiñones/
 keywords: 
-ogimg: /img/cream-of-mushroom-300x200.jpg.png
+ogimg: /img/cream-of-mushroom-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /crema-de-queso-glaseado/
 amplink:  /amp/crema-de-queso-glaseado/
 keywords: 
-ogimg: /img/cream-cheese-frosting-300x199.jpg.png
+ogimg: /img/cream-cheese-frosting-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /salmón-cocido/
 amplink:  /amp/salmón-cocido/
 keywords: 
-ogimg: /img/cooked-salmon-300x199.jpg.png
+ogimg: /img/cooked-salmon-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

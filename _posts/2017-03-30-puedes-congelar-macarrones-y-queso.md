@@ -5,7 +5,7 @@ description:
 permalink:     /puedes-congelar-macarrones-y-queso/
 amplink:  /amp/puedes-congelar-macarrones-y-queso/
 keywords: 
-ogimg: /img/mac-and-cheese-521447_640-225x300.jpg.png
+ogimg: /img/mac-and-cheese-521447_640-225x300.jpg
 redirect_from: /macarrones-con-queso/
 sitemap:
  priority: 1

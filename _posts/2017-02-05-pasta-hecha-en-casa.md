@@ -5,7 +5,7 @@ description:
 permalink:     /pasta-hecha-en-casa/
 amplink:  /amp/pasta-hecha-en-casa/
 keywords: 
-ogimg: /img/pasta-300x200.jpg.png
+ogimg: /img/pasta-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

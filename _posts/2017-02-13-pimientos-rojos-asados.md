@@ -5,7 +5,7 @@ description:
 permalink:     /pimientos-rojos-asados/
 amplink:  /amp/pimientos-rojos-asados/
 keywords: 
-ogimg: /img/roasted-red-peppers-300x199.jpg.png
+ogimg: /img/roasted-red-peppers-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

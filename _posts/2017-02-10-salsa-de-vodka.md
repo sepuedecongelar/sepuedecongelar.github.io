@@ -5,7 +5,7 @@ description:
 permalink:     /salsa-de-vodka/
 amplink:  /amp/salsa-de-vodka/
 keywords: 
-ogimg: /img/VODKA-SAUCE-300x225.jpg.png
+ogimg: /img/VODKA-SAUCE-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

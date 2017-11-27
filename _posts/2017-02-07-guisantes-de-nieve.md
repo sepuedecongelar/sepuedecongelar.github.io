@@ -5,7 +5,7 @@ description:
 permalink:     /guisantes-de-nieve/
 amplink:  /amp/guisantes-de-nieve/
 keywords: 
-ogimg: /img/snow-peas1-300x210.jpg.png
+ogimg: /img/snow-peas1-300x210.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /sopa-de-fríjol/
 amplink:  /amp/sopa-de-fríjol/
 keywords: 
-ogimg: /img/bean-soup-300x300.jpg.png
+ogimg: /img/bean-soup-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

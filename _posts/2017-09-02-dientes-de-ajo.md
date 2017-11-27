@@ -5,7 +5,7 @@ description:
 permalink:     /dientes-de-ajo/
 amplink:  /amp/dientes-de-ajo/
 keywords: 
-ogimg: /img/garlic-cloves-300x208.jpg.png
+ogimg: /img/garlic-cloves-300x208.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

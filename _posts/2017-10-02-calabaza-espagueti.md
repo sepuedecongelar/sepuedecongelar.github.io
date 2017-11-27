@@ -5,7 +5,7 @@ description:
 permalink:     /calabaza-espagueti/
 amplink:  /amp/calabaza-espagueti/
 keywords: 
-ogimg: /img/spaghetti-squash-300x200.jpg.png
+ogimg: /img/spaghetti-squash-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

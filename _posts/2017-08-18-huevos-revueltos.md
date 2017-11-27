@@ -5,7 +5,7 @@ description:
 permalink:     /huevos-revueltos/
 amplink:  /amp/huevos-revueltos/
 keywords: 
-ogimg: /img/scrambled-eggs-300x214.jpg.png
+ogimg: /img/scrambled-eggs-300x214.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /arroz-con-leche/
 amplink:  /amp/arroz-con-leche/
 keywords: 
-ogimg: /img/rice-pudding-300x200.jpg.png
+ogimg: /img/rice-pudding-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /salmón-ahumado/
 amplink:  /amp/salmón-ahumado/
 keywords: 
-ogimg: /img/smoked-salmon-300x199.jpg.png
+ogimg: /img/smoked-salmon-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

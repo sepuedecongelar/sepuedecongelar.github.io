@@ -5,7 +5,7 @@ description:
 permalink:     /congelar-hummus/
 amplink:  /amp/congelar-hummus/
 keywords: 
-ogimg: /img/hummus-300x180.jpg.png
+ogimg: /img/hummus-300x180.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

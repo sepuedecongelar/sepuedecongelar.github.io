@@ -5,7 +5,7 @@ description:
 permalink:     /pastel-de-merengue-de-limón/
 amplink:  /amp/pastel-de-merengue-de-limón/
 keywords: 
-ogimg: /img/lemon-meringue-pie-300x171.jpg.png
+ogimg: /img/lemon-meringue-pie-300x171.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /queso-azul/
 amplink:  /amp/queso-azul/
 keywords: 
-ogimg: /img/bluecheese-300x225.jpg.png
+ogimg: /img/bluecheese-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

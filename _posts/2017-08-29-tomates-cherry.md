@@ -5,7 +5,7 @@ description:
 permalink:     /tomates-cherry/
 amplink:  /amp/tomates-cherry/
 keywords: 
-ogimg: /img/cherry-tomatoes-300x225.jpg.png
+ogimg: /img/cherry-tomatoes-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /leche-de-coco/
 amplink:  /amp/leche-de-coco/
 keywords: 
-ogimg: /img/Coconut-Milk-300x199.jpg.png
+ogimg: /img/Coconut-Milk-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

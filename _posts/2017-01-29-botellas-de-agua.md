@@ -5,7 +5,7 @@ description:
 permalink:     /botellas-de-agua/
 amplink:  /amp/botellas-de-agua/
 keywords: 
-ogimg: /img/six-bottles-of-water-300x190.jpg.png
+ogimg: /img/six-bottles-of-water-300x190.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

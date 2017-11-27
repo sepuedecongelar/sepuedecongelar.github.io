@@ -5,7 +5,7 @@ description:
 permalink:     /queso-americano/
 amplink:  /amp/queso-americano/
 keywords: 
-ogimg: /img/american-cheese-300x126.jpg.png
+ogimg: /img/american-cheese-300x126.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

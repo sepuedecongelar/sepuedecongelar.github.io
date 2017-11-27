@@ -5,7 +5,7 @@ description:
 permalink:     /papas-al-horno/
 amplink:  /amp/papas-al-horno/
 keywords: 
-ogimg: /img/baked-potatoes-300x171.jpg.png
+ogimg: /img/baked-potatoes-300x171.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

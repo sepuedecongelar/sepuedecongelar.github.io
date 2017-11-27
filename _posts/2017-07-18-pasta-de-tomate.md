@@ -5,7 +5,7 @@ description:
 permalink:     /pasta-de-tomate/
 amplink:  /amp/pasta-de-tomate/
 keywords: 
-ogimg: /img/tomato-paste-300x197.jpg.png
+ogimg: /img/tomato-paste-300x197.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

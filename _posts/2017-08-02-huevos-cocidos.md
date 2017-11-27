@@ -5,7 +5,7 @@ description:
 permalink:     /huevos-cocidos/
 amplink:  /amp/huevos-cocidos/
 keywords: 
-ogimg: /img/cooked-eggs-300x199.jpg.png
+ogimg: /img/cooked-eggs-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

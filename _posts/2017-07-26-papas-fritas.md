@@ -5,7 +5,7 @@ description:
 permalink:     /papas-fritas/
 amplink:  /amp/papas-fritas/
 keywords: 
-ogimg: /img/CakePops-300x199.jpg.png
+ogimg: /img/CakePops-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

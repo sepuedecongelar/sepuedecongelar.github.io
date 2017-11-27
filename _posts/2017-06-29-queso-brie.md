@@ -5,7 +5,7 @@ description:
 permalink:     /queso-brie/
 amplink:  /amp/queso-brie/
 keywords: 
-ogimg: /img/brie-cheese-300x234.jpg.png
+ogimg: /img/brie-cheese-300x234.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

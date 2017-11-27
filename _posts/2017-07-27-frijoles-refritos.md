@@ -5,7 +5,7 @@ description:
 permalink:     /frijoles-refritos/
 amplink:  /amp/frijoles-refritos/
 keywords: 
-ogimg: /img/refried-beans-300x200.jpg.png
+ogimg: /img/refried-beans-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /quinua-cocida/
 amplink:  /amp/quinua-cocida/
 keywords: 
-ogimg: /img/cooked-quinoa-300x300.jpg.png
+ogimg: /img/cooked-quinoa-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

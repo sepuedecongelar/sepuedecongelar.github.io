@@ -5,7 +5,7 @@ description:
 permalink:     /leche-condensada-azucarada/
 amplink:  /amp/leche-condensada-azucarada/
 keywords: 
-ogimg: /img/sweetened-condensed-milk-300x224.jpg.png
+ogimg: /img/sweetened-condensed-milk-300x224.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

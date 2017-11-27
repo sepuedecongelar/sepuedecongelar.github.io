@@ -5,7 +5,7 @@ description:
 permalink:     /sopa-de-fideos-con-pollo/
 amplink:  /amp/sopa-de-fideos-con-pollo/
 keywords: 
-ogimg: /img/chicken-noodle-soup-300x272.jpg.png
+ogimg: /img/chicken-noodle-soup-300x272.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

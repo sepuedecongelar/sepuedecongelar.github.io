@@ -5,7 +5,7 @@ description:
 permalink:     /crema-espesa/
 amplink:  /amp/crema-espesa/
 keywords: 
-ogimg: /img/heavy-cream-300x197.jpg.png
+ogimg: /img/heavy-cream-300x197.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

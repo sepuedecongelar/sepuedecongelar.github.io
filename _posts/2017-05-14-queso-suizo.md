@@ -5,7 +5,7 @@ description:
 permalink:     /queso-suizo/
 amplink:  /amp/queso-suizo/
 keywords: 
-ogimg: /img/Swiss-Cheese-300x199.jpg.png
+ogimg: /img/Swiss-Cheese-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

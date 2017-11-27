@@ -5,7 +5,7 @@ description:
 permalink:     /coles-de-bruselas/
 amplink:  /amp/coles-de-bruselas/
 keywords: 
-ogimg: /img/brussel_sprouts-300x199.jpg.png
+ogimg: /img/brussel_sprouts-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

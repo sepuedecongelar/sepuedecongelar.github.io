@@ -5,7 +5,7 @@ description:
 permalink:     /judías-verdes-frescas-sin-blanquearlas/
 amplink:  /amp/judías-verdes-frescas-sin-blanquearlas/
 keywords: 
-ogimg: /img/greenbeans-300x225.jpg.png
+ogimg: /img/greenbeans-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

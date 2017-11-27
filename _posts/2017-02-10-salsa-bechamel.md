@@ -5,7 +5,7 @@ description:
 permalink:     /salsa-bechamel/
 amplink:  /amp/salsa-bechamel/
 keywords: 
-ogimg: /img/Bechamel-Sauce-300x191.jpg.png
+ogimg: /img/Bechamel-Sauce-300x191.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

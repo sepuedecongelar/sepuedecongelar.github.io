@@ -5,7 +5,7 @@ description:
 permalink:     /crema-batida/
 amplink:  /amp/crema-batida/
 keywords: 
-ogimg: /img/whipped-cream-300x198.jpg.png
+ogimg: /img/whipped-cream-300x198.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

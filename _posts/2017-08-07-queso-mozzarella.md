@@ -5,7 +5,7 @@ description:
 permalink:     /queso-mozzarella/
 amplink:  /amp/queso-mozzarella/
 keywords: 
-ogimg: /img/mozzarella-300x183.jpg.png
+ogimg: /img/mozzarella-300x183.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

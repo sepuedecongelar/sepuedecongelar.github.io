@@ -5,7 +5,7 @@ description:
 permalink:     /carne-en-conserva/
 amplink:  /amp/carne-en-conserva/
 keywords: 
-ogimg: /img/cornedbeef-300x200.jpg.png
+ogimg: /img/cornedbeef-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

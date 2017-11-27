@@ -5,7 +5,7 @@ description:
 permalink:     /barras-de-limón/
 amplink:  /amp/barras-de-limón/
 keywords: 
-ogimg: /img/lemon-bars-300x300.jpg.png
+ogimg: /img/lemon-bars-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

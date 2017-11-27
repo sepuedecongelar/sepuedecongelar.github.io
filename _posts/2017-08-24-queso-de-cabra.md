@@ -5,7 +5,7 @@ description:
 permalink:     /queso-de-cabra/
 amplink:  /amp/queso-de-cabra/
 keywords: 
-ogimg: /img/goat-cheese-300x300.jpg.png
+ogimg: /img/goat-cheese-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

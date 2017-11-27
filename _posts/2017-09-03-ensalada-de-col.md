@@ -5,7 +5,7 @@ description:
 permalink:     /ensalada-de-col/
 amplink:  /amp/ensalada-de-col/
 keywords: 
-ogimg: /img/coleslaw-300x199.jpg.png
+ogimg: /img/coleslaw-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

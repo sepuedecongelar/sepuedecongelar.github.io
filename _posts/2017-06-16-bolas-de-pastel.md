@@ -5,7 +5,7 @@ description:
 permalink:     /bolas-de-pastel/
 amplink:  /amp/bolas-de-pastel/
 keywords: 
-ogimg: /img/cakeballs-300x200.jpg.png
+ogimg: /img/cakeballs-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

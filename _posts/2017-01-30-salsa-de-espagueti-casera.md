@@ -5,7 +5,7 @@ description:
 permalink:     /salsa-de-espagueti-casera/
 amplink:  /amp/salsa-de-espagueti-casera/
 keywords: 
-ogimg: /img/Homemade-Spaghetti-Sauce-300x199.jpg.png
+ogimg: /img/Homemade-Spaghetti-Sauce-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

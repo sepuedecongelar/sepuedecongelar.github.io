@@ -5,7 +5,7 @@ description:
 permalink:     /frijoles-frescos/
 amplink:  /amp/frijoles-frescos/
 keywords: 
-ogimg: /img/beans-260210_640-300x225.jpg.png
+ogimg: /img/beans-260210_640-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

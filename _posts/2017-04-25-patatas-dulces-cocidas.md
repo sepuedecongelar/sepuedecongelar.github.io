@@ -5,7 +5,7 @@ description:
 permalink:     /patatas-dulces-cocidas/
 amplink:  /amp/patatas-dulces-cocidas/
 keywords: 
-ogimg: /img/cooked-sweet-potatoes-300x166.jpg.png
+ogimg: /img/cooked-sweet-potatoes-300x166.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

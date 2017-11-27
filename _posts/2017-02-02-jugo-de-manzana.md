@@ -5,7 +5,7 @@ description:
 permalink:     /jugo-de-manzana/
 amplink:  /amp/jugo-de-manzana/
 keywords: 
-ogimg: /img/Arsenic-Found-in-Motts-Apple-Juice-300x223.jpg.png
+ogimg: /img/Arsenic-Found-in-Motts-Apple-Juice-300x223.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

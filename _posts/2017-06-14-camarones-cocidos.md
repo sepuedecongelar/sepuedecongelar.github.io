@@ -5,7 +5,7 @@ description:
 permalink:     /camarones-cocidos/
 amplink:  /amp/camarones-cocidos/
 keywords: 
-ogimg: /img/cooked-shrimp-300x224.jpg.png
+ogimg: /img/cooked-shrimp-300x224.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /congelar-los-tomates/
 amplink:  /amp/congelar-los-tomates/
 keywords: 
-ogimg: /img/tomatoes-300x187.jpg.png
+ogimg: /img/tomatoes-300x187.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

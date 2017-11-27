@@ -5,7 +5,7 @@ description:
 permalink:     /leche-de-soja/
 amplink:  /amp/leche-de-soja/
 keywords: 
-ogimg: /img/soymilk-300x214.jpg.png
+ogimg: /img/soymilk-300x214.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

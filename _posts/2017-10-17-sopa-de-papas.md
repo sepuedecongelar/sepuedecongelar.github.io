@@ -5,7 +5,7 @@ description:
 permalink:     /sopa-de-papas/
 amplink:  /amp/sopa-de-papas/
 keywords: 
-ogimg: /img/potatosoup-300x221.jpg.png
+ogimg: /img/potatosoup-300x221.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

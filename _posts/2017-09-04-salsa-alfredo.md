@@ -5,7 +5,7 @@ description:
 permalink:     /salsa-alfredo/
 amplink:  /amp/salsa-alfredo/
 keywords: 
-ogimg: /img/alfredo-sauce-300x200.jpg.png
+ogimg: /img/alfredo-sauce-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

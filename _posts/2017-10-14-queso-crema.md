@@ -5,7 +5,7 @@ description:
 permalink:     /queso-crema/
 amplink:  /amp/queso-crema/
 keywords: 
-ogimg: /img/cream_cheese_16x9-300x169.jpg.png
+ogimg: /img/cream_cheese_16x9-300x169.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

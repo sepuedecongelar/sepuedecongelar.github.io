@@ -5,7 +5,7 @@ description:
 permalink:     /Colas-de-langosta/
 amplink:  /amp/Colas-de-langosta/
 keywords: 
-ogimg: /img/lobster-tail-cooked-lg-300x225.jpg.png
+ogimg: /img/lobster-tail-cooked-lg-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

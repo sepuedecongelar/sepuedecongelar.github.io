@@ -5,7 +5,7 @@ description:
 permalink:     /leche-condensada/
 amplink:  /amp/leche-condensada/
 keywords: 
-ogimg: /img/condensed-milk-300x300.jpg.png
+ogimg: /img/condensed-milk-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

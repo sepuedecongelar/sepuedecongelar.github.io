@@ -5,7 +5,7 @@ description:
 permalink:     /salsa-de-queso-nacho/
 amplink:  /amp/salsa-de-queso-nacho/
 keywords: 
-ogimg: /img/nacho-cheese-sauce-300x300.jpg.png
+ogimg: /img/nacho-cheese-sauce-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

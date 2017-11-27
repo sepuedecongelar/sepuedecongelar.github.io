@@ -5,7 +5,7 @@ description:
 permalink:     /salsa-casera/
 amplink:  /amp/salsa-casera/
 keywords: 
-ogimg: /img/homemade-salsa-300x228.jpg.png
+ogimg: /img/homemade-salsa-300x228.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

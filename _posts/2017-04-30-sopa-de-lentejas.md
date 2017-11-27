@@ -5,7 +5,7 @@ description:
 permalink:     /sopa-de-lentejas/
 amplink:  /amp/sopa-de-lentejas/
 keywords: 
-ogimg: /img/lentil-soup-300x300.jpg.png
+ogimg: /img/lentil-soup-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /brotes-de-soja/
 amplink:  /amp/brotes-de-soja/
 keywords: 
-ogimg: /img/bean-sprouts-300x205.jpg.png
+ogimg: /img/bean-sprouts-300x205.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

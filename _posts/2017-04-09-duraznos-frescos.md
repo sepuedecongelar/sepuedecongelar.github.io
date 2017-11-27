@@ -5,7 +5,7 @@ description:
 permalink:     /duraznos-frescos/
 amplink:  /amp/duraznos-frescos/
 keywords: 
-ogimg: /img/fresh-peeaches-300x285.jpg.png
+ogimg: /img/fresh-peeaches-300x285.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

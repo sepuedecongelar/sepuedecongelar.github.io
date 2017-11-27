@@ -5,7 +5,7 @@ description:
 permalink:     /puré-de-calabaza/
 amplink:  /amp/puré-de-calabaza/
 keywords: 
-ogimg: /img/pumpin-puree-300x199.jpg.png
+ogimg: /img/pumpin-puree-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

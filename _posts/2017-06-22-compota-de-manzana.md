@@ -5,7 +5,7 @@ description:
 permalink:     /compota-de-manzana/
 amplink:  /amp/compota-de-manzana/
 keywords: 
-ogimg: /img/homemade-applesauce-300x300.jpg.png
+ogimg: /img/homemade-applesauce-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

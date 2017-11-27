@@ -5,7 +5,7 @@ description:
 permalink:     /bizcocho-esponjoso/
 amplink:  /amp/bizcocho-esponjoso/
 keywords: 
-ogimg: /img/sponge-cake-389071_640-225x300.jpg.png
+ogimg: /img/sponge-cake-389071_640-225x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

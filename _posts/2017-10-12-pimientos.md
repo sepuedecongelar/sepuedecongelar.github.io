@@ -5,7 +5,7 @@ description:
 permalink:     /pimientos/
 amplink:  /amp/pimientos/
 keywords: 
-ogimg: /img/Bell-Peppers-300x121.jpg.png
+ogimg: /img/Bell-Peppers-300x121.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

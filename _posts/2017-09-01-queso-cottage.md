@@ -5,7 +5,7 @@ description:
 permalink:     /queso-cottage/
 amplink:  /amp/queso-cottage/
 keywords: 
-ogimg: /img/cottage-cheese-300x225.jpg.png
+ogimg: /img/cottage-cheese-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

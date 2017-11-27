@@ -5,7 +5,7 @@ description:
 permalink:     /arroz-integral-cocido/
 amplink:  /amp/arroz-integral-cocido/
 keywords: 
-ogimg: /img/cooked-brown-rice-300x200.jpg.png
+ogimg: /img/cooked-brown-rice-300x200.jpg
 redirect_from: /arroz-cocido/
 sitemap:
  priority: 1

@@ -5,7 +5,7 @@ description:
 permalink:     /pastel-de-nuez/
 amplink:  /amp/pastel-de-nuez/
 keywords: 
-ogimg: /img/pecan-pie-300x210.jpg.png
+ogimg: /img/pecan-pie-300x210.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

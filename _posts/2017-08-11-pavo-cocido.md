@@ -5,7 +5,7 @@ description:
 permalink:     /pavo-cocido/
 amplink:  /amp/pavo-cocido/
 keywords: 
-ogimg: /img/cooked-turkey-300x233.jpg.png
+ogimg: /img/cooked-turkey-300x233.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

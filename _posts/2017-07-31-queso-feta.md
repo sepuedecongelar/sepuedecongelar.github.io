@@ -5,7 +5,7 @@ description:
 permalink:     /queso-feta/
 amplink:  /amp/queso-feta/
 keywords: 
-ogimg: /img/feta-cheese-300x196.jpg.png
+ogimg: /img/feta-cheese-300x196.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

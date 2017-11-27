@@ -5,7 +5,7 @@ description:
 permalink:     /glaseado-con-mantequilla/
 amplink:  /amp/glaseado-con-mantequilla/
 keywords: 
-ogimg: /img/buttercream-frosting-300x200.jpg.png
+ogimg: /img/buttercream-frosting-300x200.jpg
 redirect_from: /crema-de-mantequilla-glaseado/
 sitemap:
  priority: 1

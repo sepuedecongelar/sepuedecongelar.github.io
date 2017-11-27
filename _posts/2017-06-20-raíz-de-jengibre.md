@@ -5,7 +5,7 @@ description:
 permalink:     /raíz-de-jengibre/
 amplink:  /amp/raíz-de-jengibre/
 keywords: 
-ogimg: /img/ginger-300x199.jpg.png
+ogimg: /img/ginger-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

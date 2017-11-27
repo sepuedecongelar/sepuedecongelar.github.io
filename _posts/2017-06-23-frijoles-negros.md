@@ -5,7 +5,7 @@ description:
 permalink:     /frijoles-negros/
 amplink:  /amp/frijoles-negros/
 keywords: 
-ogimg: /img/black-beans-300x200.jpg.png
+ogimg: /img/black-beans-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

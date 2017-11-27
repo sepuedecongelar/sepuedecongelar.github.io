@@ -5,7 +5,7 @@ description:
 permalink:     /jugo-de-limon/
 amplink:  /amp/jugo-de-limon/
 keywords: 
-ogimg: /img/lemon-juice-300x199.jpg.png
+ogimg: /img/lemon-juice-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

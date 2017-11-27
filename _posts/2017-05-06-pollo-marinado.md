@@ -5,7 +5,7 @@ description:
 permalink:     /pollo-marinado/
 amplink:  /amp/pollo-marinado/
 keywords: 
-ogimg: /img/marinated-chicken-300x213.jpg.png
+ogimg: /img/marinated-chicken-300x213.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

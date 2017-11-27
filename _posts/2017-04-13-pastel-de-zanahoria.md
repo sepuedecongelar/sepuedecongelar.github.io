@@ -5,7 +5,7 @@ description:
 permalink:     /pastel-de-zanahoria/
 amplink:  /amp/pastel-de-zanahoria/
 keywords: 
-ogimg: /img/carrot-cake-300x225.jpg.png
+ogimg: /img/carrot-cake-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

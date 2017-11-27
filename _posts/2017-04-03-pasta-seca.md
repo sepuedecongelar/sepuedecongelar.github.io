@@ -5,7 +5,7 @@ description:
 permalink:     /pasta-seca/
 amplink:  /amp/pasta-seca/
 keywords: 
-ogimg: /img/farfalle-495748_640-300x199.jpg.png
+ogimg: /img/farfalle-495748_640-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

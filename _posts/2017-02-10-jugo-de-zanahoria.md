@@ -5,7 +5,7 @@ description:
 permalink:     /jugo-de-zanahoria/
 amplink:  /amp/jugo-de-zanahoria/
 keywords: 
-ogimg: /img/carrot-juice-300x239.jpg.png
+ogimg: /img/carrot-juice-300x239.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

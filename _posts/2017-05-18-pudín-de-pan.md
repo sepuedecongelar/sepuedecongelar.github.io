@@ -5,7 +5,7 @@ description:
 permalink:     /pudín-de-pan/
 amplink:  /amp/pudín-de-pan/
 keywords: 
-ogimg: /img/bread_pudding-300x200.jpg.png
+ogimg: /img/bread_pudding-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

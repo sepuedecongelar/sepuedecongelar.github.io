@@ -5,7 +5,7 @@ description:
 permalink:     /salsa-de-arándanos/
 amplink:  /amp/salsa-de-arándanos/
 keywords: 
-ogimg: /img/cranberrysauce-300x200.jpg.png
+ogimg: /img/cranberrysauce-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /frijoles-pintos/
 amplink:  /amp/frijoles-pintos/
 keywords: 
-ogimg: /img/pinto-beans-300x199.jpg.png
+ogimg: /img/pinto-beans-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /melocotones-en-lata/
 amplink:  /amp/melocotones-en-lata/
 keywords: 
-ogimg: /img/fruit-322721_640-300x200.jpg.png
+ogimg: /img/fruit-322721_640-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

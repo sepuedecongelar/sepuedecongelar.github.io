@@ -5,7 +5,7 @@ description:
 permalink:     /cazuela-de-judías-verdes/
 amplink:  /amp/cazuela-de-judías-verdes/
 keywords: 
-ogimg: /img/green-bean-casserole-300x206.jpg.png
+ogimg: /img/green-bean-casserole-300x206.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

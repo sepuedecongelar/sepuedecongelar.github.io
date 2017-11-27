@@ -5,7 +5,7 @@ description:
 permalink:     /leche-cruda/
 amplink:  /amp/leche-cruda/
 keywords: 
-ogimg: /img/raw-milk-300x199.jpg.png
+ogimg: /img/raw-milk-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /melocotones/
 amplink:  /amp/melocotones/
 keywords: 
-ogimg: /img/Peaches-300x225.jpg.png
+ogimg: /img/Peaches-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

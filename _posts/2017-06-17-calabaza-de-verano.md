@@ -5,7 +5,7 @@ description:
 permalink:     /calabaza-de-verano/
 amplink:  /amp/calabaza-de-verano/
 keywords: 
-ogimg: /img/summer-squash-300x199.jpg.png
+ogimg: /img/summer-squash-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

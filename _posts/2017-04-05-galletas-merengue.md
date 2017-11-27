@@ -5,7 +5,7 @@ description:
 permalink:     /galletas-merengue/
 amplink:  /amp/galletas-merengue/
 keywords: 
-ogimg: /img/Meringue-Cookies-300x200.jpg.png
+ogimg: /img/Meringue-Cookies-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

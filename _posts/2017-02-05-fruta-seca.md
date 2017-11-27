@@ -5,7 +5,7 @@ description:
 permalink:     /fruta-seca/
 amplink:  /amp/fruta-seca/
 keywords: 
-ogimg: /img/dried-fruit-300x199.jpg.png
+ogimg: /img/dried-fruit-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

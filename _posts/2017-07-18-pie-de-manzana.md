@@ -5,7 +5,7 @@ description:
 permalink:     /pie-de-manzana/
 amplink:  /amp/pie-de-manzana/
 keywords: 
-ogimg: /img/apple-pie-300x168.jpg.png
+ogimg: /img/apple-pie-300x168.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

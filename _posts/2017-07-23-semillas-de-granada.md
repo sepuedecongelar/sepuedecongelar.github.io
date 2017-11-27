@@ -5,7 +5,7 @@ description:
 permalink:     /semillas-de-granada/
 amplink:  /amp/semillas-de-granada/
 keywords: 
-ogimg: /img/pomegranate_seeds-300x240.jpg.png
+ogimg: /img/pomegranate_seeds-300x240.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

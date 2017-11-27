@@ -5,7 +5,7 @@ description:
 permalink:     /ciruelas-frescas/
 amplink:  /amp/ciruelas-frescas/
 keywords: 
-ogimg: /img/plums-276075_640-300x199.jpg.png
+ogimg: /img/plums-276075_640-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

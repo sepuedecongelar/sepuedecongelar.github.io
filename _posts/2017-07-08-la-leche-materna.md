@@ -5,7 +5,7 @@ description:
 permalink:     /la-leche-materna/
 amplink:  /amp/la-leche-materna/
 keywords: 
-ogimg: /img/breast-feeding-300x199.jpg.png
+ogimg: /img/breast-feeding-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /queso-de-terciopelo/
 amplink:  /amp/queso-de-terciopelo/
 keywords: 
-ogimg: /img/velveeta-300x149.jpg.png
+ogimg: /img/velveeta-300x149.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

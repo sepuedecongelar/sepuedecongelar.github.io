@@ -5,7 +5,7 @@ description:
 permalink:     /sopa-de-tomate/
 amplink:  /amp/sopa-de-tomate/
 keywords: 
-ogimg: /img/tomato-soup-300x225.jpg.png
+ogimg: /img/tomato-soup-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

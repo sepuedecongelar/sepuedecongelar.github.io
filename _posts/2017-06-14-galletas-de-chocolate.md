@@ -5,7 +5,7 @@ description:
 permalink:     /galletas-de-chocolate/
 amplink:  /amp/galletas-de-chocolate/
 keywords: 
-ogimg: /img/chocolate_chip-cookies-300x220.jpg.png
+ogimg: /img/chocolate_chip-cookies-300x220.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

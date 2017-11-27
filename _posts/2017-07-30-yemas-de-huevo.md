@@ -5,7 +5,7 @@ description:
 permalink:     /yemas-de-huevo/
 amplink:  /amp/yemas-de-huevo/
 keywords: 
-ogimg: /img/egg-yolk-300x226.jpg.png
+ogimg: /img/egg-yolk-300x226.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

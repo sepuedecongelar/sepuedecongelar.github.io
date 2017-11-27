@@ -5,7 +5,7 @@ description:
 permalink:     /pimientos-rellenos/
 amplink:  /amp/pimientos-rellenos/
 keywords: 
-ogimg: /img/stuffed-peppers-300x272.jpg.png
+ogimg: /img/stuffed-peppers-300x272.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

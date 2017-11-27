@@ -5,7 +5,7 @@ description:
 permalink:     /pimientos-picantes/
 amplink:  /amp/pimientos-picantes/
 keywords: 
-ogimg: /img/hot-peppers-300x300.jpg.png
+ogimg: /img/hot-peppers-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

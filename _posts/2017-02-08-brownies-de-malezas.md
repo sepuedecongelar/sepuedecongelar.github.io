@@ -5,7 +5,7 @@ description:
 permalink:     /brownies-de-malezas/
 amplink:  /amp/brownies-de-malezas/
 keywords: 
-ogimg: /img/weed-brownie-300x201.jpg.png
+ogimg: /img/weed-brownie-300x201.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

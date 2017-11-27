@@ -5,7 +5,7 @@ description:
 permalink:     /patatas-dulces/
 amplink:  /amp/patatas-dulces/
 keywords: 
-ogimg: /img/sweet-potato-300x207.jpg.png
+ogimg: /img/sweet-potato-300x207.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /crema-de-café/
 amplink:  /amp/crema-de-café/
 keywords: 
-ogimg: /img/coffee-creamer-300x300.jpg.png
+ogimg: /img/coffee-creamer-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

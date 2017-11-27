@@ -5,7 +5,7 @@ description:
 permalink:     /congelar-el-pollo/
 amplink:  /amp/congelar-el-pollo/
 keywords: 
-ogimg: /img/freeze-chicken-300x225.jpg.png
+ogimg: /img/freeze-chicken-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

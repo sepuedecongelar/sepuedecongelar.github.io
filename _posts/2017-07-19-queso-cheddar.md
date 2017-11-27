@@ -5,7 +5,7 @@ description:
 permalink:     /queso-cheddar/
 amplink:  /amp/queso-cheddar/
 keywords: 
-ogimg: /img/Cheddar-cheese-300x180.jpg.png
+ogimg: /img/Cheddar-cheese-300x180.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

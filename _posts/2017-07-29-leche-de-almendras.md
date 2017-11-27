@@ -5,7 +5,7 @@ description:
 permalink:     /leche-de-almendras/
 amplink:  /amp/leche-de-almendras/
 keywords: 
-ogimg: /img/almond-milk.jpg.png
+ogimg: /img/almond-milk.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /Queso-gouda/
 amplink:  /amp/Queso-gouda/
 keywords: 
-ogimg: /img/gouda-cheese-300x200.jpg.png
+ogimg: /img/gouda-cheese-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

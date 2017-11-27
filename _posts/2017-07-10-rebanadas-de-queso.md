@@ -5,7 +5,7 @@ description:
 permalink:     /rebanadas-de-queso/
 amplink:  /amp/rebanadas-de-queso/
 keywords: 
-ogimg: /img/cheese-slices-300x220.jpg.png
+ogimg: /img/cheese-slices-300x220.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

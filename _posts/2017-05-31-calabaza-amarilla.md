@@ -5,7 +5,7 @@ description:
 permalink:     /calabaza-amarilla/
 amplink:  /amp/calabaza-amarilla/
 keywords: 
-ogimg: /img/yellow-squash-300x225.jpg.png
+ogimg: /img/yellow-squash-300x225.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

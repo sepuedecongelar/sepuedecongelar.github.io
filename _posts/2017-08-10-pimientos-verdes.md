@@ -5,7 +5,7 @@ description:
 permalink:     /pimientos-verdes/
 amplink:  /amp/pimientos-verdes/
 keywords: 
-ogimg: /img/green_pepper-300x178.jpg.png
+ogimg: /img/green_pepper-300x178.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

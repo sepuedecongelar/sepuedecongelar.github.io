@@ -5,7 +5,7 @@ description:
 permalink:     /verduras-asadas/
 amplink:  /amp/verduras-asadas/
 keywords: 
-ogimg: /img/roasted-veggies-300x185.jpg.png
+ogimg: /img/roasted-veggies-300x185.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

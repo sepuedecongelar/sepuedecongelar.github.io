@@ -5,7 +5,7 @@ description:
 permalink:     /zumo-de-naranja/
 amplink:  /amp/zumo-de-naranja/
 keywords: 
-ogimg: /img/OrangeJuice-300x200.jpg.png
+ogimg: /img/OrangeJuice-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

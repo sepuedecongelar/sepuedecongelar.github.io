@@ -5,7 +5,7 @@ description:
 permalink:     /queso-de-hebra/
 amplink:  /amp/queso-de-hebra/
 keywords: 
-ogimg: /img/string-cheese-300x211.jpg.png
+ogimg: /img/string-cheese-300x211.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /tarta-de-queso/
 amplink:  /amp/tarta-de-queso/
 keywords: 
-ogimg: /img/cheesecake-300x300.jpg.png
+ogimg: /img/cheesecake-300x300.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

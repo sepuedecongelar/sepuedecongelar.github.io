@@ -5,7 +5,7 @@ description:
 permalink:     /salsa-de-espagueti/
 amplink:  /amp/salsa-de-espagueti/
 keywords: 
-ogimg: /img/spaghetti-sauce-300x199.jpg.png
+ogimg: /img/spaghetti-sauce-300x199.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

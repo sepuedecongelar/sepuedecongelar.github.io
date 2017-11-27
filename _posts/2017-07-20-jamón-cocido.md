@@ -5,7 +5,7 @@ description:
 permalink:     /jamón-cocido/
 amplink:  /amp/jamón-cocido/
 keywords: 
-ogimg: /img/cooked-ham-300x200.jpg.png
+ogimg: /img/cooked-ham-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /queso-en-rodajas/
 amplink:  /amp/queso-en-rodajas/
 keywords: 
-ogimg: /img/sliced-cheese-300x220.jpg.png
+ogimg: /img/sliced-cheese-300x220.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

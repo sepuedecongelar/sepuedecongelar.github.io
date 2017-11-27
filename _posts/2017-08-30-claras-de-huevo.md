@@ -5,7 +5,7 @@ description:
 permalink:     /claras-de-huevo/
 amplink:  /amp/claras-de-huevo/
 keywords: 
-ogimg: /img/egg-white-300x249.jpg.png
+ogimg: /img/egg-white-300x249.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /arroz-integral/
 amplink:  /amp/arroz-integral/
 keywords: 
-ogimg: /img/brown-rice-300x235.jpg.png
+ogimg: /img/brown-rice-300x235.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /tomates-enteros/
 amplink:  /amp/tomates-enteros/
 keywords: 
-ogimg: /img/whole-tomatoes-300x200.jpg.png
+ogimg: /img/whole-tomatoes-300x200.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

@@ -5,7 +5,7 @@ description:
 permalink:     /pastel-de-carne/
 amplink:  /amp/pastel-de-carne/
 keywords: 
-ogimg: /img/shepherds-pie-300x238.jpg.png
+ogimg: /img/shepherds-pie-300x238.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

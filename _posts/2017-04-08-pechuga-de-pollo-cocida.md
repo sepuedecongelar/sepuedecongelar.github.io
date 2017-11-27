@@ -5,7 +5,7 @@ description:
 permalink:     /pechuga-de-pollo-cocida/
 amplink:  /amp/pechuga-de-pollo-cocida/
 keywords: 
-ogimg: /img/cooked-chicken-breast-300x186.jpg.png
+ogimg: /img/cooked-chicken-breast-300x186.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'

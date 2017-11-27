@@ -5,7 +5,7 @@ description:
 permalink:     /sopa-de-almejas/
 amplink:  /amp/sopa-de-almejas/
 keywords: 
-ogimg: /img/clam-chowder-300x224.jpg.png
+ogimg: /img/clam-chowder-300x224.jpg
 sitemap:
  priority: 1
  changefreq:    'monthly'
