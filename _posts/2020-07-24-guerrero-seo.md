@@ -1,16 +1,17 @@
 ---
 layout: post
-title: El SEO Warrior se lleva el trofeo gracias a que CONEXOO y Raiola surfean la ola
-description: El SEO Warrior se lleva el trofeo y CONEXOO y Raiola surfean la ola dos nuevas palabras claves que estan dando vuelta por internet estos dias, y responden a un nuevo concurso seo
-permalink:     /guerrero-seo/
-amplink:  /amp/guerrero-seo/
-keywords: 
+title: El guerro del seo se lleva el trofeo gracias a que CONEXOO y Raiola surfean la ola
+description: El guerrero del seo se lleva el trofeo y CONEXOO y Raiola surfean la ola dos nuevas palabras claves que estan dando vuelta por internet estos dias, y responden a un nuevo concurso seo
+permalink:     /conexoo-guerrero-seo/
+amplink:  /amp/conexoo-guerrero-seo/
+home: FALSE
+keywords: concurso, seo, dean romero, guerrero seo, conexoo, raiola networks, blogger3cero, 5000 euros, palabra clave, segun josma, trofeo
 ogimg:
 sitemap:
  priority: 1
  changefreq:    'daily'
 ---
- - El SEO Warrior se lleva el trofeo
+ - El Guerrero del SEO se lleva el trofeo
  - CONEXOO y Raiola surfean la ola
 
 Dos nuevas **palabras claves** que estan dando vuelta por internet estos dias, y responden a un nuevo [**concurso seo**](https://blogger3cero.com/concurso-seo-2020-2/).

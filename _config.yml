@@ -10,7 +10,7 @@ title: Se puede Congelar
 name: Se puede Congelar
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://localhost:4000" # the base hostname & protocol for your site
-url: https://sepuedecongelar.com
+url: https://sepuedecongelar.com/
 description: > # this means to ignore newlines until "keywords:"
   Se puede congelar? Te ayudamos a saber como congelar tu comida favorita. Descubre los secretos para frizar comida y como hacerlo.
   Sepuedecongelar.com se dedica a darle la mejor respuesta sobre congelación de alimentos.

@@ -1,16 +1,16 @@
 ---
 layout: amp
-title: El SEO Warrior se lleva el trofeo gracias a que CONEXOO y Raiola surfean la ola
-description: El SEO Warrior se lleva el trofeo y CONEXOO y Raiola surfean la ola dos nuevas palabras claves que estan dando vuelta por internet estos dias, y responden a un nuevo concurso seo
-normallink:     /guerrero-seo/
-permalink:  /amp/guerrero-seo/
+title: El guerro del seo se lleva el trofeo gracias a que CONEXOO y Raiola surfean la ola
+description: El guerrero del seo se lleva el trofeo y CONEXOO y Raiola surfean la ola dos nuevas palabras claves que estan dando vuelta por internet estos dias, y responden a un nuevo concurso seo
+normallink:     /conexoo-guerrero-seo/
+permalink:  /amp/conexoo-guerrero-seo/
 home: FALSE
 ogimg:
 sitemap:
  priority: 1
  changefreq:    'daily'
 ---
- - El SEO Warrior se lleva el trofeo
+ - El Guerrero del SEO se lleva el trofeo
  - CONEXOO y Raiola surfean la ola
 
 Dos nuevas **palabras claves** que estan dando vuelta por internet estos dias, y responden a un nuevo [**concurso seo**](https://blogger3cero.com/concurso-seo-2020-2/).
